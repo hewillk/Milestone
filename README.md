@@ -11,6 +11,7 @@
 - `<optional>`: &ensp; &ensp;  [PR100982][100982]
 - `<any>`:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  [PR101034][101034]
 - `<type_traits>`: [PR100894][100894]
+- `<span>`: [PR101411][101411]
 
 ## Some MSVC STL bugs reported by me
 - [issues/1932][1932], [issues/1957][1957]
@@ -49,5 +50,6 @@
 [100894]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100894
 [101214]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101214
 [101231]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101231
+[101411]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101411
 [1932]:https://hub.fastgit.org/microsoft/STL/issues/1932
 [1957]:https://hub.fastgit.org/microsoft/STL/issues/1957
