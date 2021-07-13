@@ -9,7 +9,7 @@
 - `<ranges>`: &ensp; &ensp; &ensp;    [PR100475][100475], [PR100621][100621], [PR100631][100631], [PR100690][100690], [PR100824][100824], [PR100940][100940], [PR101214][101214], [PR101231][101231]
 - `<iterator>`: &ensp; &ensp; [PR100833][100833]
 - `<optional>`: &ensp; &ensp;  [PR100982][100982]
-- `<any>`:&ensp; &ensp; &ensp; &ensp; &ensp; &ensp;  [PR101034][101034]
+- `<any>`:&ensp; &ensp; &ensp; &ensp; &ensp;  [PR101034][101034]
 - `<type_traits>`: [PR100894][100894]
 - `<span>`:&ensp; &ensp; &ensp;&ensp; &ensp; [PR101411][101411]
 
