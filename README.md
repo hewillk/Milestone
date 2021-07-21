@@ -14,9 +14,13 @@
 - `<span>`: [101411][101411]
 
 ## MSVC STL bugs reported by me
-- `<algorithm>`: [issues/1932][1932]
-- `<ranges>`: [issues/1957][1957]
-- `<iterator>`: [issues/2065][2065]
+- `<algorithm>`: [1932][1932]
+- `<ranges>`: [1957][1957]
+- `<iterator>`: [2065][2065]
+
+## C++ Standard Library Issues reported by me
+- [[range.split.outer.value]](http://eel.is/c++draft/range.lazy.split.outer.value): [3553](https://cplusplus.github.io/LWG/issue3553)
+- [[string.view.cons]](http://eel.is/c++draft/string.view.cons): [3573](https://cplusplus.github.io/LWG/issue3573)
 
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
 [100109]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100109
