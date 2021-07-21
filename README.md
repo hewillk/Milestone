@@ -1,20 +1,22 @@
-## Some gcc regression bugs reported by me
-- [gcc-8 Regression]:&ensp;   [PR100006][100006], [PR100109][100109]
-- [gcc-9 Regression]:&ensp;   [PR99478][99478], [PR99803][99803], [PR99844][99844]
-- [gcc-10 Regression]: &ensp; [PR99831][99831], [PR99806][99806], [PR99659][99659], [PR99700][99700]
-- [gcc-11 Regression]: &ensp; [PR99874][99874], [PR99899][99899], [PR99815][99815], [PR99869][99869], [PR99584][99584]
+## GCC regression bugs reported by me
+- [8 Regression]: [100006][100006], [100109][100109]
+- [9 Regression]: [99478][99478], [99803][99803], [99844][99844]
+- [10 Regression]: [99831][99831], [99806][99806], [99659][99659], [99700][99700]
+- [11 Regression]:[99874][99874], [99899][99899], [99815][99815], [99869][99869], [99584][99584]
 
-## Some gcc libstdc++ bugs reported by me
-- `<algorithm>`: &ensp; [PR100187][100187], [PR100237][100237], [PR100249][100249], [PR100287][100287], [PR100387][100387], [PR100770][100770], [PR100795][100795]
-- `<ranges>`: &ensp; &ensp; &ensp;    [PR100475][100475], [PR100621][100621], [PR100631][100631], [PR100690][100690], [PR100824][100824], [PR100940][100940], [PR101214][101214], [PR101231][101231], [PR101263][101263]
-- `<iterator>`: &ensp; &ensp; [PR100833][100833]
-- `<optional>`: &ensp; &ensp;  [PR100982][100982]
-- `<any>`:&ensp; &ensp; &ensp; &ensp; &ensp;  [PR101034][101034]
-- `<type_traits>`: [PR100894][100894]
-- `<span>`:&ensp; &ensp; &ensp;&ensp; &ensp; [PR101411][101411]
+## libstdc++ bugs reported by me
+- `<algorithm>`: [100187][100187], [100237][100237], [100249][100249], [100287][100287], [100387][100387], [100770][100770], [100795][100795]
+- `<ranges>`: [100475][100475], [100621][100621], [100631][100631], [100690][100690], [100824][100824], [100940][100940], [101214][101214], [101231][101231], [101263][101263]
+- `<iterator>`: [100833][100833]
+- `<optional>`: [100982][100982]
+- `<any>`: [101034][101034]
+- `<type_traits>`: [100894][100894]
+- `<span>`: [101411][101411]
 
-## Some MSVC STL bugs reported by me
-- [issues/1932][1932], [issues/1957][1957]
+## MSVC STL bugs reported by me
+- `<algorithm>`: [issues/1932][1932]
+- `<ranges>`: [issues/1957][1957]
+- `<iterator>`: [issues/2065][2065]
 
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
 [100109]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100109
@@ -52,5 +54,6 @@
 [101231]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101231
 [101263]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101263
 [101411]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101411
-[1932]:https://hub.fastgit.org/microsoft/STL/issues/1932
-[1957]:https://hub.fastgit.org/microsoft/STL/issues/1957
+[1932]:https://github.com/microsoft/STL/issues/1932
+[1957]:https://github.com/microsoft/STL/issues/1957
+[2065]:https://github.com/microsoft/STL/issues/2065
