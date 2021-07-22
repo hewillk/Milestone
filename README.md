@@ -12,6 +12,7 @@
 - `<any>`: [101034][101034]
 - `<type_traits>`: [100894][100894]
 - `<span>`: [101411][101411]
+- `<memory>`: [101571][101571]
 
 ## MSVC STL bugs reported by me
 - `<algorithm>`: [1932][1932]
