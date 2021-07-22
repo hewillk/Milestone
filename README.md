@@ -59,6 +59,7 @@
 [101231]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101231
 [101263]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101263
 [101411]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101411
+[101571]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101571
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
 [2065]:https://github.com/microsoft/STL/issues/2065
