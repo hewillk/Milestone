@@ -7,7 +7,7 @@
 ## libstdc++ bugs reported by me
 - `<algorithm>`: [100187][100187], [100237][100237], [100249][100249], [100287][100287], [100387][100387], [100770][100770], [100795][100795]
 - `<ranges>`: [100475][100475], [100621][100621], [100631][100631], [100690][100690], [100824][100824], [100940][100940], [101214][101214], [101231][101231], [101263][101263]
-- `<iterator>`: [100833][100833]
+- `<iterator>`: [100833][100833], [101527][101527]
 - `<optional>`: [100982][100982]
 - `<any>`: [101034][101034]
 - `<type_traits>`: [100894][100894]
@@ -59,7 +59,9 @@
 [101231]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101231
 [101263]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101263
 [101411]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101411
+[101527]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101527
 [101571]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101571
+
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
 [2065]:https://github.com/microsoft/STL/issues/2065
