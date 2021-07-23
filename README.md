@@ -5,7 +5,7 @@
 - [11 Regression]:[99874][99874], [99899][99899], [99815][99815], [99869][99869], [99584][99584]
 
 ## libstdc++ bugs reported by me
-- `<algorithm>`: [100187][100187], [100237][100237], [100249][100249], [100287][100287], [100387][100387], [100770][100770], [100795][100795]
+- `<algorithm>`: [97512][97512], [100187][100187], [100237][100237], [100249][100249], [100287][100287], [100387][100387], [100770][100770], [100795][100795]
 - `<ranges>`: [100475][100475], [100621][100621], [100631][100631], [100690][100690], [100824][100824], [100940][100940], [101214][101214], [101231][101231], [101263][101263]
 - `<iterator>`: [100833][100833], [101527][101527]
 - `<optional>`: [100982][100982]
@@ -23,6 +23,7 @@
 - [[range.split.outer.value]](http://eel.is/c++draft/range.lazy.split.outer.value): [3553](https://cplusplus.github.io/LWG/issue3553)
 - [[string.view.cons]](http://eel.is/c++draft/string.view.cons): [3573](https://cplusplus.github.io/LWG/issue3573)
 
+[97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
 [100109]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100109
 [99478]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=99478
