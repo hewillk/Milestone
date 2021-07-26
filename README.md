@@ -20,9 +20,9 @@
 - `<iterator>`: [2065][2065]
 
 ## C++ Standard Library Issues reported by me
-- [[range.split.outer.value]](http://eel.is/c++draft/range.lazy.split.outer.value): [3553](https://cplusplus.github.io/LWG/issue3553)
-- [[string.view.cons]](http://eel.is/c++draft/string.view.cons): [3573](https://cplusplus.github.io/LWG/issue3573)
-- [[common.iterator]](http://eel.is/c++draft/common.iterator): [3573](https://cplusplus.github.io/LWG/issue3574)
+- [range.split.outer.value]: [3553](https://cplusplus.github.io/LWG/issue3553)
+- [string.view.cons]: [3573](https://cplusplus.github.io/LWG/issue3573)
+- [common.iterator]: [3573](https://cplusplus.github.io/LWG/issue3574)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
