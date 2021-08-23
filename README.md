@@ -14,6 +14,7 @@
 - `<span>`: [101411][101411]
 - `<memory>`: [101571][101571], [101587][101587]
 - `<utility>`: [101722][101722]
+- `<variant>`: [102026][102026]
 
 ## MSVC STL bugs reported by me
 - `<algorithm>`: [1932][1932]
@@ -69,6 +70,7 @@
 [101608]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101608
 [101722]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101722
 [101483]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101483
+[102026]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102026
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
