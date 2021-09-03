@@ -3,6 +3,10 @@
 - [9 Regression]: [99478][99478], [99803][99803], [99844][99844]
 - [10 Regression]: [99831][99831], [99806][99806], [99659][99659], [99700][99700]
 - [11 Regression]:[99874][99874], [99899][99899], [99815][99815], [99869][99869], [99584][99584]
+- [12 Regression]: [102163][102163]
+
+## GCC confirmed bugs reported by me
+
 
 ## libstdc++ bugs reported by me
 - `<algorithm>`: [97512][97512], [100187][100187], [100237][100237], [100249][100249], [100287][100287], [100387][100387], [100770][100770], [100795][100795], [101599][101599], [101608][101608]
@@ -15,6 +19,7 @@
 - `<memory>`: [101571][101571], [101587][101587]
 - `<utility>`: [101722][101722]
 - `<variant>`: [102026][102026]
+- `<tuple>`: [101960][101960]
 
 ## MSVC STL bugs reported by me
 - `<algorithm>`: [1932][1932]
@@ -71,6 +76,8 @@
 [101722]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101722
 [101483]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101483
 [102026]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102026
+[101960]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101960
+[102163]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102163
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
