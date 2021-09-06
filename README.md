@@ -26,6 +26,7 @@
 - `<algorithm>` [1932][1932]
 - `<ranges>` [1957][1957]
 - `<iterator>` [2065][2065]
+- `<variant>` [2171][2171]
 
 ## C++ Standard Library Issues reported by me
 - [[range.split.outer.value]] [3553](https://cplusplus.github.io/LWG/issue3553)
@@ -83,3 +84,4 @@
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
 [2065]:https://github.com/microsoft/STL/issues/2065
+[2171]:https://github.com/microsoft/STL/issues/2171
