@@ -22,6 +22,7 @@
 - `<variant>` [102026][102026]
 - `<tuple>` [101960][101960]
 - `<vector>` [100153][100153]
+- `<tuple>` [102270][102270]
 
 ## MSVC STL bugs reported by me
 - `<algorithm>` [1932][1932]
@@ -123,6 +124,7 @@
 [101595]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101595
 [101629]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101629
 [102012]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102012
+[102270]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102270
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
