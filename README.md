@@ -11,7 +11,7 @@
 
 ## libstdc++ bugs reported by me
 - `<algorithm>` [97512][97512], [100187][100187], [100237][100237], [100249][100249], [100287][100287], [100387][100387], [100770][100770], [100795][100795], [101599][101599], [101608][101608]
-- `<ranges>` [100044][100044], [100475][100475], [100621][100621], [100631][100631], [100690][100690], [100824][100824], [100940][100940], [101214][101214], [101231][101231], [101263][101263], [101483][101483]
+- `<ranges>` [100044][100044], [100475][100475], [100606][100606], [100621][100621], [100631][100631], [100690][100690], [100824][100824], [100940][100940], [101214][101214], [101231][101231], [101263][101263], [101483][101483], [102301][102301]
 - `<iterator>` [100833][100833], [101527][101527]
 - `<optional>` [100982][100982]
 - `<any>` [101034][101034]
@@ -61,6 +61,7 @@
 [100621]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100621
 [100631]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100631
 [100690]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100690
+[100606]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100606
 [100824]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100824
 [100940]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100940
 [100833]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100833
@@ -124,6 +125,7 @@
 [101629]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=101629
 [102012]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102012
 [102270]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102270
+[102301]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102301
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
