@@ -23,7 +23,7 @@
 - `<tuple>` [101960][101960], [102270][102270]
 - `<vector>` [100153][100153]
 - `<filesystem>` [102354][102354]
-- 
+
 ## MSVC STL bugs reported by me
 - `<algorithm>` [1932][1932]
 - `<ranges>` [1957][1957]
