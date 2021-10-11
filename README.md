@@ -25,7 +25,7 @@
 - `<filesystem>` [102354][102354]
 
 ## MSVC STL bugs reported by me
-- `<algorithm>` [1932][1932]
+- `<algorithm>` [1932][1932], [2268][2268]
 - `<ranges>` [1957][1957]
 - `<iterator>` [2065][2065]
 - `<variant>` [2171][2171]
@@ -136,3 +136,4 @@
 [1957]:https://github.com/microsoft/STL/issues/1957
 [2065]:https://github.com/microsoft/STL/issues/2065
 [2171]:https://github.com/microsoft/STL/issues/2171
+[2268]:https://github.com/microsoft/STL/issues/2268
