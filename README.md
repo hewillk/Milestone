@@ -34,6 +34,12 @@
 - [range.split.outer.value] [3553](https://cplusplus.github.io/LWG/issue3553)
 - [string.view.cons] [3573](https://cplusplus.github.io/LWG/issue3573)
 - [common.iterator] [3574](https://cplusplus.github.io/LWG/issue3574)
+- [range.subrange] [3589](https://cplusplus.github.io/LWG/issue3589)
+- [move.iterators] [3593](https://cplusplus.github.io/LWG/issue3593)
+- [common.iter.access] [3595](https://cplusplus.github.io/LWG/issue3595)
+- [range.lazy.split.view] [3599](https://cplusplus.github.io/LWG/issue3599)
+- [reverse.iter.cons] [3602](https://cplusplus.github.io/LWG/issue3602)
+- [incrementable.traits] [3615](https://cplusplus.github.io/LWG/issue3615)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
