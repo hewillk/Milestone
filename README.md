@@ -1,7 +1,7 @@
 ## GCC regression bugs reported by me
 - [8 Regression] [100006][100006], [100109][100109]
 - [9 Regression] [99478][99478], [99803][99803], [99844][99844]
-- [10 Regression] [99831][99831], [99806][99806], [99659][99659], [99700][99700]
+- [10 Regression] [99831][99831], [99806][99806], [99659][99659], [99700][99700], [102629][102629]
 - [11 Regression] [99874][99874], [99899][99899], [99815][99815], [99869][99869], [99584][99584]
 - [12 Regression] [102163][102163], [102654][102654], [102709][102709]
 
@@ -142,6 +142,7 @@
 [102709]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102709
 [102784]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102784
 [102825]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102825
+[102629]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102629
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
