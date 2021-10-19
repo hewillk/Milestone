@@ -23,6 +23,7 @@
 - `<tuple>` [101960][101960], [102270][102270]
 - `<vector>` [100153][100153]
 - `<filesystem>` [102354][102354]
+- `<functional>` [102825][102825]
 
 ## MSVC STL bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268]
@@ -139,7 +140,8 @@
 [102358]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102358
 [102654]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102654
 [102709]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102709
-[102784]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102784 
+[102784]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102784
+[102825]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=102825
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
