@@ -19,6 +19,7 @@
 - `<vector>` [100153][100153]
 - `<filesystem>` [102354][102354]
 - `<functional>` [102825][102825]
+- `<expected>` [105146][105146], [105153][105153], [105154][105154]
 
 ## MSVC STL bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268]
@@ -160,6 +161,9 @@
 [103460]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=103460
 [105067]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=105067
 [100474]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100474
+[105146]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=105146
+[105153]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=105153
+[105154]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=105154
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
