@@ -40,6 +40,7 @@
 - [incrementable.traits] [3615](https://cplusplus.github.io/LWG/issue3615)
 - [format.context] [3654](https://cplusplus.github.io/LWG/issue3654)
 - [range.join.view] [3700](https://cplusplus.github.io/LWG/issue3700)
+- [range.zip.transform.iterator] [3702](https://cplusplus.github.io/LWG/issue3702)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
