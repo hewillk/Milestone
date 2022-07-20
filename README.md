@@ -51,6 +51,7 @@
 - [range.common.view] [3717](https://cplusplus.github.io/LWG/issue3717)
 - [range.utility.conv.to] [3722](https://cplusplus.github.io/LWG/issue3722)
 - [reverse.iter.elem] [3725](https://cplusplus.github.io/LWG/issue3725)
+- [reverse.iter.elem] [3726](https://cplusplus.github.io/LWG/issue3726)
 - [reverse.iter.elem] [3727](https://cplusplus.github.io/LWG/issue3727)
 - [range.zip.view] [3731](https://cplusplus.github.io/LWG/issue3731)
 - [range.adjacent.overview] [3735](https://cplusplus.github.io/LWG/issue3735)
