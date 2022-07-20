@@ -61,6 +61,11 @@
 - [range.chunk.view.input] [3739](https://cplusplus.github.io/LWG/issue3739)
 - [range.slide.view] [3740](https://cplusplus.github.io/LWG/issue3740)
 
+## C++ working draft editorial fix by me
+- [link](https://github.com/cplusplus/draft/commits?author=hewillk)
+
+
+
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
 [100109]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100109
