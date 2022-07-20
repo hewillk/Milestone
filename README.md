@@ -29,25 +29,25 @@
 - `<variant>` [2171][2171]
 
 ## C++ Standard Library Issues reported by me
-- [range.split.outer.value] [3553](https://cplusplus.github.io/LWG/issue3553)
-- [string.view.cons] [3573](https://cplusplus.github.io/LWG/issue3573)
-- [common.iterator] [3574](https://cplusplus.github.io/LWG/issue3574)
-- [range.subrange] [3589](https://cplusplus.github.io/LWG/issue3589)
-- [move.iterators] [3593](https://cplusplus.github.io/LWG/issue3593)
-- [common.iter.access] [3595](https://cplusplus.github.io/LWG/issue3595)
+- [range.split.outer.value] [3553](https://cplusplus.github.io/LWG/issue3553) ✅
+- [string.view.cons] [3573](https://cplusplus.github.io/LWG/issue3573) ✅
+- [common.iterator] [3574](https://cplusplus.github.io/LWG/issue3574) ✅
+- [range.subrange] [3589](https://cplusplus.github.io/LWG/issue3589) ✅
+- [move.iterators] [3593](https://cplusplus.github.io/LWG/issue3593) ✅
+- [common.iter.access] [3595](https://cplusplus.github.io/LWG/issue3595) ✅
 - [range.lazy.split.view] [3599](https://cplusplus.github.io/LWG/issue3599)
 - [reverse.iter.cons] [3602](https://cplusplus.github.io/LWG/issue3602)
 - [incrementable.traits] [3615](https://cplusplus.github.io/LWG/issue3615)
-- [format.context] [3654](https://cplusplus.github.io/LWG/issue3654)
+- [format.context] [3654](https://cplusplus.github.io/LWG/issue3654) ✅
 - [range.join.view] [3700](https://cplusplus.github.io/LWG/issue3700)
-- [range.zip.transform.iterator] [3702](https://cplusplus.github.io/LWG/issue3702)
-- [range.chunk.outer.value] [3707](https://cplusplus.github.io/LWG/issue3707)
-- [range.take.while.sentinel] [3708](https://cplusplus.github.io/LWG/issue3708)
-- [range.chunk.view.input] [3710](https://cplusplus.github.io/LWG/issue3710)
-- [range.slide.view] [3711](https://cplusplus.github.io/LWG/issue3711)
-- [range.chunk.view.input] [3712](https://cplusplus.github.io/LWG/issue3712)
+- [range.zip.transform.iterator] [3702](https://cplusplus.github.io/LWG/issue3702) ✅
+- [range.chunk.outer.value] [3707](https://cplusplus.github.io/LWG/issue3707) ✅
+- [range.take.while.sentinel] [3708](https://cplusplus.github.io/LWG/issue3708) ✅
+- [range.chunk.view.input] [3710](https://cplusplus.github.io/LWG/issue3710) ✅
+- [range.slide.view] [3711](https://cplusplus.github.io/LWG/issue3711) ✅
+- [range.chunk.view.input] [3712](https://cplusplus.github.io/LWG/issue3712) ✅
 - [range.zip.transform.view] [3714](https://cplusplus.github.io/LWG/issue3714)
-- [view.interface.general] [3715](https://cplusplus.github.io/LWG/issue3715)
+- [view.interface.general] [3715](https://cplusplus.github.io/LWG/issue3715) ✅
 - [range.common.view] [3717](https://cplusplus.github.io/LWG/issue3717)
 - [range.utility.conv.to] [3722](https://cplusplus.github.io/LWG/issue3722)
 - [reverse.iter.elem] [3725](https://cplusplus.github.io/LWG/issue3725)
