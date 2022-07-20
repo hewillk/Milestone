@@ -23,8 +23,8 @@
 - `<stacktrace>` [105031][105031]
 
 ## MSVC STL bugs reported by me
-- `<algorithm>` [1932][1932], [2268][2268]
-- `<ranges>` [1957][1957]
+- `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888]
+- `<ranges>` [1957][1957], [2889][2889]
 - `<iterator>` [2065][2065]
 - `<variant>` [2171][2171]
 
@@ -179,3 +179,8 @@
 [2065]:https://github.com/microsoft/STL/issues/2065
 [2171]:https://github.com/microsoft/STL/issues/2171
 [2268]:https://github.com/microsoft/STL/issues/2268
+[2884]:https://github.com/microsoft/STL/issues/2884
+[2885]:https://github.com/microsoft/STL/issues/2885
+[2886]:https://github.com/microsoft/STL/issues/2886
+[2888]:https://github.com/microsoft/STL/issues/2888
+[2889]:https://github.com/microsoft/STL/issues/2889
