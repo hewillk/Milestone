@@ -31,6 +31,7 @@
 - `<ranges>` [1957][1957], [2889][2889], [2894][2894]
 - `<iterator>` [2065][2065]
 - `<variant>` [2171][2171]
+- `<memory>` [2962][2962]
 
 ## C++ Standard Library Issues reported by me
 - [range.split.outer.value] [3553](https://cplusplus.github.io/LWG/issue3553) ✅
@@ -215,3 +216,4 @@
 [2892]:https://github.com/microsoft/STL/issues/2892
 [2894]:https://github.com/microsoft/STL/issues/2894
 [2900]:https://github.com/microsoft/STL/issues/2900
+[2962]:https://github.com/microsoft/STL/issues/2962
