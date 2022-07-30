@@ -30,7 +30,7 @@
 - `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900]
 - `<ranges>` [1957][1957], [2889][2889], [2894][2894]
 - `<iterator>` [2065][2065]
-- `<variant>` [2171][2171]
+- `<variant>` [2171][2171], [2970][2970]
 - `<memory>` [2962][2962]
 
 ## C++ Standard Library Issues reported by me
@@ -217,3 +217,4 @@
 [2894]:https://github.com/microsoft/STL/issues/2894
 [2900]:https://github.com/microsoft/STL/issues/2900
 [2962]:https://github.com/microsoft/STL/issues/2962
+[2970]:https://github.com/microsoft/STL/issues/2970
