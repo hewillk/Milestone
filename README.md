@@ -66,6 +66,8 @@
 - [range.chunk.view.input] [3739](https://cplusplus.github.io/LWG/issue3739)
 - [range.slide.view] [3740](https://cplusplus.github.io/LWG/issue3740)
 - [uninitialized.copy] [3737](https://cplusplus.github.io/LWG/issue3747)
+- [common.iter.cmp] [3737](https://cplusplus.github.io/LWG/issue3748)
+- [iterators.common] [3737](https://cplusplus.github.io/LWG/issue3749)
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/commits?author=hewillk)
