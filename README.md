@@ -29,7 +29,7 @@
 ## MSVC STL bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900]
 - `<ranges>` [1957][1957], [2889][2889], [2894][2894], [3014][3014]
-- `<iterator>` [2065][2065]
+- `<iterator>` [2065][2065], [3025][3025]
 - `<variant>` [2171][2171], [2970][2970]
 - `<memory>` [2962][2962]
 
@@ -222,3 +222,4 @@
 [2962]:https://github.com/microsoft/STL/issues/2962
 [2970]:https://github.com/microsoft/STL/issues/2970
 [3014]:https://github.com/microsoft/STL/issues/3014
+[3025]:https://github.com/microsoft/STL/issues/3025
