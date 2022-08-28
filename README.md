@@ -60,12 +60,13 @@
 - [reverse.iter.elem] [3727](https://cplusplus.github.io/LWG/issue3727)
 - [range.zip.view] [3731](https://cplusplus.github.io/LWG/issue3731)
 - [range.adjacent.overview] [3735](https://cplusplus.github.io/LWG/issue3735)
-- [iterator.synopsis] [3736](https://cplusplus.github.io/LWG/issue3736)
+- [iterator.synopsis] [3736](https://cplusplus.github.io/LWG/issue3736) ✅
 - [range.take.sentinel] [3737](https://cplusplus.github.io/LWG/issue3737)
-- [range.take.view] [3738](https://cplusplus.github.io/LWG/issue3738)
+- [range.take.view] [3738](https://cplusplus.github.io/LWG/issue3738) ✅
 - [range.chunk.view.input] [3739](https://cplusplus.github.io/LWG/issue3739)
 - [range.slide.view] [3740](https://cplusplus.github.io/LWG/issue3740)
-- [uninitialized.copy] [3747](https://cplusplus.github.io/LWG/issue3747)
+- [range.utility.conv.to] [3743](https://cplusplus.github.io/LWG/issue3743) ✅
+- [uninitialized.copy] [3747](https://cplusplus.github.io/LWG/issue3747) ✅
 - [common.iter.cmp] [3748](https://cplusplus.github.io/LWG/issue3748)
 - [iterators.common] [3749](https://cplusplus.github.io/LWG/issue3749)
 
