@@ -64,6 +64,20 @@
 - [uninitialized.copy] [3747](https://cplusplus.github.io/LWG/issue3747) ✅
 - [common.iter.cmp] [3748](https://cplusplus.github.io/LWG/issue3748)
 - [iterators.common] [3749](https://cplusplus.github.io/LWG/issue3749)
+- [alg.rotate] [3759](https://cplusplus.github.io/LWG/issue3759)
+- [range.cartesian] [3760](https://cplusplus.github.io/LWG/issue3760)
+- [ranges.cartesian.iterator] [3761](https://cplusplus.github.io/LWG/issue3761)
+- [coro.generator.iterator] [3762](https://cplusplus.github.io/LWG/issue3762)
+- [range.repeat.iterator] [3763](https://cplusplus.github.io/LWG/issue3763)
+- [iterator.synopsis] [3765](https://cplusplus.github.io/LWG/issue3765)
+- [view.interface.general] [3766](https://cplusplus.github.io/LWG/issue3766)
+- [ranges.syn] [3768](https://cplusplus.github.io/LWG/issue3768)
+- [const.iterators] [3769](https://cplusplus.github.io/LWG/issue3769)
+- [ranges.syn] [3770](https://cplusplus.github.io/LWG/issue3770)
+- [range.repeat.view] [3772](https://cplusplus.github.io/LWG/issue3772)
+- [range.zip.transform.overview] [3773](https://cplusplus.github.io/LWG/issue3773)
+- [container.adaptors.general] [3781](https://cplusplus.github.io/LWG/issue3781)
+- [common.iterator] [3783](https://cplusplus.github.io/LWG/issue3783)
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/commits?author=hewillk)
