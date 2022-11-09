@@ -78,6 +78,10 @@
 - [range.zip.transform.overview] [3773](https://cplusplus.github.io/LWG/issue3773)
 - [container.adaptors.general] [3781](https://cplusplus.github.io/LWG/issue3781)
 - [common.iterator] [3783](https://cplusplus.github.io/LWG/issue3783)
+- [range.utility.conv.to] [3787](https://cplusplus.github.io/LWG/issue3787)
+- [range.join.iterator] [3791](https://cplusplus.github.io/LWG/issue3791)
+- [range.repeat.view] [3796](https://cplusplus.github.io/LWG/issue3796)
+- [ranges.cartesian.iterator] [3820](https://cplusplus.github.io/LWG/issue3820)
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/commits?author=hewillk)
