@@ -224,6 +224,7 @@
 [107371]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=107371
 [105583]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=105583
 [107572]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=107572
+[105221]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=105221
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
