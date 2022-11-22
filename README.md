@@ -82,6 +82,8 @@
 - [range.join.iterator] [3791](https://cplusplus.github.io/LWG/issue3791)
 - [range.repeat.view] [3796](https://cplusplus.github.io/LWG/issue3796)
 - [ranges.cartesian.iterator] [3820](https://cplusplus.github.io/LWG/issue3820)
+- [range.as.rvalue.view] [3829](https://cplusplus.github.io/LWG/issue3829)
+- [range.reverse.view] [3830](https://cplusplus.github.io/LWG/issue3830)
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/commits?author=hewillk)
