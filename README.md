@@ -33,7 +33,7 @@
 - `<variant>` [2171][2171], [2970][2970]
 - `<memory>` [2962][2962]
 
-## C++ Standard Library Issues reported by me
+## C++ Standard Library Issues reported by me (✅ means that the proposed or updated resolution has been merged into the draft)
 - [range.split.outer.value] [3553](https://cplusplus.github.io/LWG/issue3553) ✅
 - [string.view.cons] [3573](https://cplusplus.github.io/LWG/issue3573) ✅
 - [common.iterator] [3574](https://cplusplus.github.io/LWG/issue3574) ✅
@@ -58,7 +58,7 @@
 - [reverse.iter.elem] [3725](https://cplusplus.github.io/LWG/issue3725)
 - [range.zip.view] [3731](https://cplusplus.github.io/LWG/issue3731)
 - [iterator.synopsis] [3736](https://cplusplus.github.io/LWG/issue3736) ✅
-- [range.take.sentinel] [3737](https://cplusplus.github.io/LWG/issue3737)
+- [range.take.sentinel] [3737](https://cplusplus.github.io/LWG/issue3737) ✅
 - [range.take.view] [3738](https://cplusplus.github.io/LWG/issue3738) ✅
 - [range.utility.conv.to] [3743](https://cplusplus.github.io/LWG/issue3743) ✅
 - [uninitialized.copy] [3747](https://cplusplus.github.io/LWG/issue3747) ✅
