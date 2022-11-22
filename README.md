@@ -33,7 +33,7 @@
 - `<variant>` [2171][2171], [2970][2970]
 - `<memory>` [2962][2962]
 
-## C++ Standard Library Issues reported by me (✅ means that the proposed or updated resolution has been merged into the draft)
+## C++ Standard Library Issues reported by me
 - [range.split.outer.value] [3553](https://cplusplus.github.io/LWG/issue3553) ✅
 - [string.view.cons] [3573](https://cplusplus.github.io/LWG/issue3573) ✅
 - [common.iterator] [3574](https://cplusplus.github.io/LWG/issue3574) ✅
