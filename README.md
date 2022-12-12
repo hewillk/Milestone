@@ -25,7 +25,7 @@
 - `<functional>` [102825][102825]
 - `<expected>` [105146][105146], [105153][105153], [105154][105154]
 - `<stacktrace>` [105031][105031]
-- `<format>` [107871][107871], [108024][108024]
+- `<format>` [107871][107871], [108024][108024], [108046][108046]
 
 ## MSVC STL bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900]
@@ -236,6 +236,7 @@
 [107800]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=107800
 [107871]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=107871
 [108024]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=108024
+[108046]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=108046
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
