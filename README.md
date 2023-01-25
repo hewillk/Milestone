@@ -85,6 +85,19 @@
 - [ranges.cartesian.iterator] [3820](https://cplusplus.github.io/LWG/issue3820) ✅
 - [range.as.rvalue.view] [3829](https://cplusplus.github.io/LWG/issue3829)
 - [range.reverse.view] [3830](https://cplusplus.github.io/LWG/issue3830)
+- [incrementable.traits] [3838](https://cplusplus.github.io/LWG/issue3838)
+- [format.range.formatter] [3839](https://cplusplus.github.io/LWG/issue3839) ✅
+- [range.utility.conv.to] [3845](https://cplusplus.github.io/LWG/issue3845)
+- [range.iota.iterator] [3846](https://cplusplus.github.io/LWG/issue3846)
+- [range.utility.conv.to] [3847](https://cplusplus.github.io/LWG/issue3847)
+- [range.adjacent.view] [3848](https://cplusplus.github.io/LWG/issue3848)
+- [ranges.cartesian.iterator] [3849](https://cplusplus.github.io/LWG/issue3849)
+- [range.as.const.overview] [3850](https://cplusplus.github.io/LWG/issue3850)
+- [range.chunk.inner.iter] [3851](https://cplusplus.github.io/LWG/issue3851)
+- [range.join.with.iterator] [3852](https://cplusplus.github.io/LWG/issue3852)
+- [const.iterators] [3853](https://cplusplus.github.io/LWG/issue3853)
+- [range.lazy.split.view] [3855](https://cplusplus.github.io/LWG/issue3855)
+
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/commits?author=hewillk)
