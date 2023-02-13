@@ -107,7 +107,7 @@
 - [range.join.with.view] [3873](https://cplusplus.github.io/LWG/issue3873)
 
 ## C++ working draft editorial fix by me
-- [Link](https://github.com/cplusplus/draft/commits?author=hewillk)
+- [Link](https://github.com/cplusplus/draft/graphs/contributors)
 
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
