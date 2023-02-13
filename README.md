@@ -1,7 +1,7 @@
 ## My StackOverflow Profile
 - [Link](https://stackoverflow.com/users/11638718/%e5%ba%b7%e6%a1%93%e7%91%8b?tab=profile)
 
-## My accepted proposals for C++23
+## My accepted proposal for C++23
 - [P2517](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2517r1.html)
 
 ## GCC regression language bugs reported by me
