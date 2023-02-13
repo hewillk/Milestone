@@ -90,20 +90,20 @@
 - [format.range.formatter] [3839](https://cplusplus.github.io/LWG/issue3839) ✅
 - [range.utility.conv.to] [3845](https://cplusplus.github.io/LWG/issue3845)
 - [range.iota.iterator] [3846](https://cplusplus.github.io/LWG/issue3846)
-- [range.utility.conv.to] [3847](https://cplusplus.github.io/LWG/issue3847)
-- [range.adjacent.view] [3848](https://cplusplus.github.io/LWG/issue3848)
-- [ranges.cartesian.iterator] [3849](https://cplusplus.github.io/LWG/issue3849)
-- [range.as.const.overview] [3850](https://cplusplus.github.io/LWG/issue3850)
-- [range.chunk.inner.iter] [3851](https://cplusplus.github.io/LWG/issue3851)
+- [range.utility.conv.to] [3847](https://cplusplus.github.io/LWG/issue3847) ✅
+- [range.adjacent.view] [3848](https://cplusplus.github.io/LWG/issue3848) ✅
+- [ranges.cartesian.iterator] [3849](https://cplusplus.github.io/LWG/issue3849) ✅
+- [range.as.const.overview] [3850](https://cplusplus.github.io/LWG/issue3850) ✅
+- [range.chunk.inner.iter] [3851](https://cplusplus.github.io/LWG/issue3851) ✅
 - [range.join.with.iterator] [3852](https://cplusplus.github.io/LWG/issue3852)
-- [const.iterators] [3853](https://cplusplus.github.io/LWG/issue3853)
+- [const.iterators] [3853](https://cplusplus.github.io/LWG/issue3853) ✅
 - [range.lazy.split.view] [3855](https://cplusplus.github.io/LWG/issue3855)
 - [projected] [3859](https://cplusplus.github.io/LWG/issue3859)
-- [ranges.syn] [3860](https://cplusplus.github.io/LWG/issue3860)
-- [iterator.synopsis] [3862](https://cplusplus.github.io/LWG/issue3862)
+- [ranges.syn] [3860](https://cplusplus.github.io/LWG/issue3860) ✅
+- [iterator.synopsis] [3862](https://cplusplus.github.io/LWG/issue3862) ✅
 - [const.iterators.alias] [3863](https://cplusplus.github.io/LWG/issue3863)
 - [alg.replace] [3868](https://cplusplus.github.io/LWG/issue3868)
-- [const.iterators] [3872](https://cplusplus.github.io/LWG/issue3872)
+- [const.iterators] [3872](https://cplusplus.github.io/LWG/issue3872) ✅
 - [range.join.with.view] [3873](https://cplusplus.github.io/LWG/issue3873)
 
 ## C++ working draft editorial fix by me
