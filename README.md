@@ -98,7 +98,13 @@
 - [range.join.with.iterator] [3852](https://cplusplus.github.io/LWG/issue3852)
 - [const.iterators] [3853](https://cplusplus.github.io/LWG/issue3853)
 - [range.lazy.split.view] [3855](https://cplusplus.github.io/LWG/issue3855)
-
+- [projected] [3859](https://cplusplus.github.io/LWG/issue3859)
+- [ranges.syn] [3860](https://cplusplus.github.io/LWG/issue3860)
+- [iterator.synopsis] [3862](https://cplusplus.github.io/LWG/issue3862)
+- [const.iterators.alias] [3863](https://cplusplus.github.io/LWG/issue3863)
+- [alg.replace] [3868](https://cplusplus.github.io/LWG/issue3868)
+- [const.iterators] [3872](https://cplusplus.github.io/LWG/issue3872)
+- [range.join.with.view] [3873](https://cplusplus.github.io/LWG/issue3873)
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/commits?author=hewillk)
