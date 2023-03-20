@@ -25,7 +25,7 @@
 - `<vector>` [100153][100153]
 - `<filesystem>` [102354][102354]
 - `<functional>` [102825][102825]
-- `<expected>` [105146][105146], [105153][105153], [105154][105154]
+- `<expected>` [105146][105146], [105153][105153], [105154][105154], [109182][109182]
 - `<stacktrace>` [105031][105031]
 - `<format>` [107871][107871], [108024][108024], [108046][108046]
 - `<numeric>` [108760][108760]
@@ -262,6 +262,7 @@
 [108291]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=108291
 [108362]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=108362
 [108760]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=108760
+[109182]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=109182
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
