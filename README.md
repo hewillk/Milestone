@@ -107,6 +107,10 @@
 - [alg.replace] [3868](https://cplusplus.github.io/LWG/issue3868)
 - [const.iterators] [3872](https://cplusplus.github.io/LWG/issue3872) ✅
 - [range.join.with.view] [3873](https://cplusplus.github.io/LWG/issue3873)
+- [range.refinements] [3896](https://cplusplus.github.io/LWG/issue3896)
+- [range.enumerate.iterator] [3912](https://cplusplus.github.io/LWG/issue3912) ✅
+- [iterator.synopsis] [3952](https://cplusplus.github.io/LWG/issue3952)
+- [common.iter.cust] [3953](https://cplusplus.github.io/LWG/issue3953)
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/graphs/contributors)
