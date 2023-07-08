@@ -29,6 +29,7 @@
 - `<stacktrace>` [105031][105031]
 - `<format>` [107871][107871], [108024][108024], [108046][108046]
 - `<numeric>` [108760][108760]
+- `<ratio>` [110593][110593]
 
 ## Microsoft's C++ Standard Library (MSVC-STL) bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900]
@@ -273,6 +274,7 @@
 [109860]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=109860
 [110562]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=110562
 [110555]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=110555
+[110593]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=110593
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
