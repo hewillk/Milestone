@@ -112,6 +112,8 @@
 - [range.enumerate.iterator] [3912](https://cplusplus.github.io/LWG/issue3912) ✅
 - [iterator.synopsis] [3952](https://cplusplus.github.io/LWG/issue3952)
 - [common.iter.cust] [3953](https://cplusplus.github.io/LWG/issue3953)
+- [range.repeat.view] [3955](https://cplusplus.github.io/LWG/issue3955)
+- [range.utility.conv.to] [3958](https://cplusplus.github.io/LWG/issue3958)
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/graphs/contributors)
