@@ -114,6 +114,16 @@
 - [common.iter.cust] [3953](https://cplusplus.github.io/LWG/issue3953)
 - [range.repeat.view] [3955](https://cplusplus.github.io/LWG/issue3955)
 - [range.utility.conv.to] [3958](https://cplusplus.github.io/LWG/issue3958)
+- [range.join.with.view] [3971](https://cplusplus.github.io/LWG/issue3971)
+- [range.join.with.iterator] [3972](https://cplusplus.github.io/LWG/issue3972)
+- [range.adaptor.object] [3981](https://cplusplus.github.io/LWG/issue3981)
+- [range.view] [3982](https://cplusplus.github.io/LWG/issue3982)
+- [range.utility.conv.adaptors] [3983](https://cplusplus.github.io/LWG/issue3983)
+- [range.utility.conv.to] [3984](https://cplusplus.github.io/LWG/issue3984)
+- [range.utility.conv.to] [3985](https://cplusplus.github.io/LWG/issue3985)
+- [const.iterators] [3986](https://cplusplus.github.io/LWG/issue3986)
+- [iterator.range] [3987](https://cplusplus.github.io/LWG/issue3987)
+- [const.iterators] [3988](https://cplusplus.github.io/LWG/issue3988)
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/graphs/contributors)
