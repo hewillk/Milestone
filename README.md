@@ -69,7 +69,7 @@
 - [range.chunk.view.input] [3712](https://cplusplus.github.io/LWG/issue3712) ✅
 - [range.zip.transform.view] [3714](https://cplusplus.github.io/LWG/issue3714)
 - [view.interface.general] [3715](https://cplusplus.github.io/LWG/issue3715) ✅
-- [range.common.view] [3717](https://cplusplus.github.io/LWG/issue3717)
+- [range.common.view] [3717](https://cplusplus.github.io/LWG/issue3717) ✅
 - [range.utility.conv.to] [3722](https://cplusplus.github.io/LWG/issue3722)
 - [reverse.iter.elem] [3725](https://cplusplus.github.io/LWG/issue3725)
 - [range.zip.view] [3731](https://cplusplus.github.io/LWG/issue3731)
@@ -89,12 +89,12 @@
 - [view.interface.general] [3766](https://cplusplus.github.io/LWG/issue3766) ✅
 - [const.iterators] [3769](https://cplusplus.github.io/LWG/issue3769) ✅
 - [ranges.syn] [3770](https://cplusplus.github.io/LWG/issue3770) ✅
-- [range.repeat.view] [3772](https://cplusplus.github.io/LWG/issue3772)
+- [range.repeat.view] [3772](https://cplusplus.github.io/LWG/issue3772) ✅
 - [range.zip.transform.overview] [3773](https://cplusplus.github.io/LWG/issue3773) ✅
 - [container.adaptors.general] [3781](https://cplusplus.github.io/LWG/issue3781) ✅
 - [common.iterator] [3783](https://cplusplus.github.io/LWG/issue3783)
-- [range.utility.conv.to] [3787](https://cplusplus.github.io/LWG/issue3787)
-- [range.join.iterator] [3791](https://cplusplus.github.io/LWG/issue3791) 
+- [range.utility.conv.to] [3787](https://cplusplus.github.io/LWG/issue3787) ✅
+- [range.join.iterator] [3791](https://cplusplus.github.io/LWG/issue3791) ✅
 - [range.repeat.view] [3796](https://cplusplus.github.io/LWG/issue3796) ✅
 - [ranges.cartesian.iterator] [3820](https://cplusplus.github.io/LWG/issue3820) ✅
 - [range.as.rvalue.view] [3829](https://cplusplus.github.io/LWG/issue3829)
@@ -111,7 +111,7 @@
 - [range.join.with.iterator] [3852](https://cplusplus.github.io/LWG/issue3852)
 - [const.iterators] [3853](https://cplusplus.github.io/LWG/issue3853) ✅
 - [range.lazy.split.view] [3855](https://cplusplus.github.io/LWG/issue3855)
-- [projected] [3859](https://cplusplus.github.io/LWG/issue3859)
+- [projected] [3859](https://cplusplus.github.io/LWG/issue3859) ✅
 - [ranges.syn] [3860](https://cplusplus.github.io/LWG/issue3860) ✅
 - [iterator.synopsis] [3862](https://cplusplus.github.io/LWG/issue3862) ✅
 - [const.iterators.alias] [3863](https://cplusplus.github.io/LWG/issue3863)
@@ -123,11 +123,8 @@
 - [iterator.synopsis] [3952](https://cplusplus.github.io/LWG/issue3952)
 - [common.iter.cust] [3953](https://cplusplus.github.io/LWG/issue3953) ✅
 - [range.repeat.view] [3955](https://cplusplus.github.io/LWG/issue3955)
-- [range.utility.conv.to] [3958](https://cplusplus.github.io/LWG/issue3958)
 - [range.join.with.view] [3971](https://cplusplus.github.io/LWG/issue3971)
 - [range.join.with.iterator] [3972](https://cplusplus.github.io/LWG/issue3972)
-- [range.adaptor.object] [3981](https://cplusplus.github.io/LWG/issue3981)
-- [range.view] [3982](https://cplusplus.github.io/LWG/issue3982)
 - [range.utility.conv.adaptors] [3983](https://cplusplus.github.io/LWG/issue3983)
 - [range.utility.conv.to] [3984](https://cplusplus.github.io/LWG/issue3984)
 - [range.utility.conv.to] [3985](https://cplusplus.github.io/LWG/issue3985)
