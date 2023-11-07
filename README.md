@@ -79,7 +79,7 @@
 - [range.utility.conv.to] [3743](https://cplusplus.github.io/LWG/issue3743) ✅
 - [uninitialized.copy] [3747](https://cplusplus.github.io/LWG/issue3747) ✅
 - [common.iter.cmp] [3748](https://cplusplus.github.io/LWG/issue3748)
-- [iterators.common] [3749](https://cplusplus.github.io/LWG/issue3749)
+- [iterators.common] [3749](https://cplusplus.github.io/LWG/issue3749) ✅
 - [alg.rotate] [3759](https://cplusplus.github.io/LWG/issue3759) ✅
 - [range.cartesian] [3760](https://cplusplus.github.io/LWG/issue3760) ✅
 - [ranges.cartesian.iterator] [3761](https://cplusplus.github.io/LWG/issue3761) ✅
