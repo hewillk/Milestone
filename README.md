@@ -112,7 +112,7 @@
 - [range.refinements] [3896](https://cplusplus.github.io/LWG/issue3896)
 - [range.enumerate.iterator] [3912](https://cplusplus.github.io/LWG/issue3912) ✅
 - [iterator.synopsis] [3952](https://cplusplus.github.io/LWG/issue3952)
-- [common.iter.cust] [3953](https://cplusplus.github.io/LWG/issue3953)
+- [common.iter.cust] [3953](https://cplusplus.github.io/LWG/issue3953) ✅
 - [range.repeat.view] [3955](https://cplusplus.github.io/LWG/issue3955)
 - [range.utility.conv.to] [3958](https://cplusplus.github.io/LWG/issue3958)
 - [range.join.with.view] [3971](https://cplusplus.github.io/LWG/issue3971)
