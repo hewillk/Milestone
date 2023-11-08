@@ -126,17 +126,16 @@
 - [range.join.with.view] [3971](https://cplusplus.github.io/LWG/issue3971)
 - [range.join.with.iterator] [3972](https://cplusplus.github.io/LWG/issue3972)
 - [range.utility.conv.adaptors] [3983](https://cplusplus.github.io/LWG/issue3983)
-- [range.utility.conv.to] [3984](https://cplusplus.github.io/LWG/issue3984)
+- [range.utility.conv.to] [3984](https://cplusplus.github.io/LWG/issue3984) ✅
 - [range.utility.conv.to] [3985](https://cplusplus.github.io/LWG/issue3985)
 - [const.iterators] [3986](https://cplusplus.github.io/LWG/issue3986)
 - [iterator.range] [3987](https://cplusplus.github.io/LWG/issue3987) ✅
-- [const.iterators] [3988](https://cplusplus.github.io/LWG/issue3988)
+- [const.iterators] [3988](https://cplusplus.github.io/LWG/issue3988) ✅
 - [range.adaptor.object] [3994](https://cplusplus.github.io/LWG/issue3994)
 - [views.multidim] [3995](https://cplusplus.github.io/LWG/issue3995)
 - [flat.map.modifiers] [4000](https://cplusplus.github.io/LWG/issue4000)
 - [range.iota.view] [4001](https://cplusplus.github.io/LWG/issue4001) ✅
 - [range.iota.iterator] [4002](https://cplusplus.github.io/LWG/issue4002)
-- [view.interface] [4003](https://cplusplus.github.io/LWG/issue4003)
 - [range.chunk.outer.value] [4006](https://cplusplus.github.io/LWG/issue4006)
 
 ## C++ working draft editorial fix by me
