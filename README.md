@@ -32,7 +32,7 @@
 - `<ratio>` [110593][110593]
 
 ## Clang C++ Standard Library (libc++) bugs reported by me
-- `<iterator>` [56504][56504]
+- `<iterator>` [56504][56504], [71498][71498]
 - `<format>` [60536][60536], [60995][60995]
 - `<algorithm>` [61160][61160], [69074][69074], [69554][69554]
 - `<chrono>` [63912][63912]
@@ -42,7 +42,7 @@
 
 ## Microsoft's C++ Standard Library (MSVC-STL) bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900], [4102][4102], [4108][4108], [4109][4109]
-- `<ranges>` [1957][1957], [2889][2889], [2894][2894], [3014][3014], [3031][3031]
+- `<ranges>` [1957][1957], [2889][2889], [2894][2894], [3014][3014], [3031][3031], [4153][4153]
 - `<iterator>` [2065][2065], [3025][3025]
 - `<variant>` [2171][2171], [2970][2970]
 - `<memory>` [2962][2962]
@@ -330,6 +330,7 @@
 [4102]:https://github.com/microsoft/STL/issues/4102
 [4108]:https://github.com/microsoft/STL/issues/4108
 [4109]:https://github.com/microsoft/STL/issues/4109
+[4153]:https://github.com/microsoft/STL/issues/4153
 
 [56504]:https://github.com/llvm/llvm-project/issues/56504
 [60536]:https://github.com/llvm/llvm-project/issues/60536
@@ -341,3 +342,4 @@
 [67296]:https://github.com/llvm/llvm-project/issues/67296
 [69074]:https://github.com/llvm/llvm-project/issues/69074
 [69554]:https://github.com/llvm/llvm-project/issues/69554
+[71498]:https://github.com/llvm/llvm-project/issues/71498
