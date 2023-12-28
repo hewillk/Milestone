@@ -1,6 +1,12 @@
 ## My StackOverflow Profile
 - [Link](https://stackoverflow.com/users/11638718/%e5%ba%b7%e6%a1%93%e7%91%8b?tab=profile)
 
+## My proposal for C++26
+- [P3029](https://github.com/cplusplus/papers/issues/1710): Better `mdspan`'s CTAD
+- [P3052](https://github.com/cplusplus/papers/issues/1721): `view_interface::at()`
+- [P3059](https://github.com/cplusplus/papers/issues/1726): Making user-defined constructors of view iterators/sentinels private
+
+
 ## My accepted proposal for C++23
 - [P2517](https://github.com/cplusplus/papers/issues/1175): Add a conditional `noexcept` specification to `std::apply`
 
@@ -142,6 +148,7 @@
 - [range.common.view] [4012](https://cplusplus.github.io/LWG/issue4012)
 - [range.lazy.split.outer.value] [4013](https://cplusplus.github.io/LWG/issue4013)
 - [range.utility.conv.to] [4018](https://cplusplus.github.io/LWG/issue4018)
+- [ranges.syn] [4027](https://cplusplus.github.io/LWG/issue4027)
 
 
 
