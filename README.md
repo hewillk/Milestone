@@ -33,7 +33,7 @@
 - `<functional>` [102825][102825]
 - `<expected>` [105146][105146], [105153][105153], [105154][105154], [109182][109182]
 - `<stacktrace>` [105031][105031]
-- `<format>` [107871][107871], [108024][108024], [108046][108046], [112607][112607]
+- `<format>` [107871][107871], [108024][108024], [108046][108046], [112607][112607], [113320][113320]
 - `<numeric>` [108760][108760]
 - `<ratio>` [110593][110593]
 
@@ -149,8 +149,7 @@
 - [range.lazy.split.outer.value] [4013](https://cplusplus.github.io/LWG/issue4013)
 - [range.utility.conv.to] [4018](https://cplusplus.github.io/LWG/issue4018)
 - [ranges.syn] [4027](https://cplusplus.github.io/LWG/issue4027)
-
-
+- [range.single.view] [4035](https://cplusplus.github.io/LWG/issue4035)
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/graphs/contributors)
@@ -327,6 +326,7 @@
 [112641]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=112641
 [112876]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=112876
 [113068]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=113068
+[113320]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=113320
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
