@@ -150,6 +150,7 @@
 - [range.utility.conv.to] [4018](https://cplusplus.github.io/LWG/issue4018)
 - [ranges.syn] [4027](https://cplusplus.github.io/LWG/issue4027)
 - [range.single.view] [4035](https://cplusplus.github.io/LWG/issue4035)
+- [range.take.overview] [4050](https://cplusplus.github.io/LWG/issue4050)
 
 ## C++ working draft editorial fix by me
 - [Link](https://github.com/cplusplus/draft/graphs/contributors)
