@@ -330,7 +330,7 @@
 [113320]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=113320
 [111410]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=111410
 [113595]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=113595
-[113640]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=113649
+[113640]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=113640
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
