@@ -45,6 +45,7 @@
 - `<mdspan>` [68671][68671]
 - `<ratio>` [63753][63753]
 - `<ranges>` [67296][67296], [72883][72883]
+- `<iostream>` [79782][79782]
 
 ## Microsoft's C++ Standard Library (MSVC-STL) bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900], [4102][4102], [4108][4108], [4109][4109]
@@ -369,3 +370,4 @@
 [69554]:https://github.com/llvm/llvm-project/issues/69554
 [71498]:https://github.com/llvm/llvm-project/issues/71498
 [72883]:https://github.com/llvm/llvm-project/issues/72883
+[79782]:https://github.com/llvm/llvm-project/issues/79782
