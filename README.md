@@ -42,7 +42,7 @@
 ## Clang C++ Standard Library (libc++) bugs reported by me
 - `<iterator>` [56504][56504], [71498][71498]
 - `<format>` [60536][60536], [60995][60995]
-- `<algorithm>` [61160][61160], [69074][69074], [69554][69554]
+- `<algorithm>` [61160][61160], [69074][69074], [69554][69554], [86833][86833]
 - `<chrono>` [63912][63912]
 - `<mdspan>` [68671][68671]
 - `<ratio>` [63753][63753]
@@ -375,3 +375,4 @@
 [71498]:https://github.com/llvm/llvm-project/issues/71498
 [72883]:https://github.com/llvm/llvm-project/issues/72883
 [79782]:https://github.com/llvm/llvm-project/issues/79782
+[86833]:https://github.com/llvm/llvm-project/issues/86833
