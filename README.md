@@ -145,7 +145,6 @@
 - [flat.map.modifiers] [4000](https://cplusplus.github.io/LWG/issue4000)
 - [range.iota.view] [4001](https://cplusplus.github.io/LWG/issue4001) ✅
 - [range.iota.iterator] [4002](https://cplusplus.github.io/LWG/issue4002)
-- [range.chunk.outer.value] [4006](https://cplusplus.github.io/LWG/issue4006)
 - [range.drop.view] [4009](https://cplusplus.github.io/LWG/issue4009)
 - [range.subrange.access] [4010](https://cplusplus.github.io/LWG/issue4010)
 - [range.common.view] [4012](https://cplusplus.github.io/LWG/issue4012) ✅
