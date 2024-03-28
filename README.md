@@ -1,10 +1,12 @@
 ## My StackOverflow Profile
 - [Link](https://stackoverflow.com/users/11638718/%e5%ba%b7%e6%a1%93%e7%91%8b?tab=profile)
 
-## My proposal for C++26
+## My accepted proposal for C++26
 - [P3029](https://github.com/cplusplus/papers/issues/1710): Better `mdspan`'s CTAD
-- [P3052](https://github.com/cplusplus/papers/issues/1721): `view_interface::at()`
+
+## My proposal for C++26
 - [P3059](https://github.com/cplusplus/papers/issues/1726): Making user-defined constructors of view iterators/sentinels private
+- [P3052](https://github.com/cplusplus/papers/issues/1721): `view_interface::at()`
 
 
 ## My accepted proposal for C++23
@@ -146,11 +148,11 @@
 - [range.chunk.outer.value] [4006](https://cplusplus.github.io/LWG/issue4006)
 - [range.drop.view] [4009](https://cplusplus.github.io/LWG/issue4009)
 - [range.subrange.access] [4010](https://cplusplus.github.io/LWG/issue4010)
-- [range.common.view] [4012](https://cplusplus.github.io/LWG/issue4012)
-- [range.lazy.split.outer.value] [4013](https://cplusplus.github.io/LWG/issue4013)
+- [range.common.view] [4012](https://cplusplus.github.io/LWG/issue4012) ✅
+- [range.lazy.split.outer.value] [4013](https://cplusplus.github.io/LWG/issue4013) ✅
 - [range.utility.conv.to] [4018](https://cplusplus.github.io/LWG/issue4018)
 - [ranges.syn] [4027](https://cplusplus.github.io/LWG/issue4027)
-- [range.single.view] [4035](https://cplusplus.github.io/LWG/issue4035)
+- [range.single.view] [4035](https://cplusplus.github.io/LWG/issue4035) ✅
 - [range.take.overview] [4050](https://cplusplus.github.io/LWG/issue4050)
 
 ## C++ working draft editorial fix by me
