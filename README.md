@@ -1,6 +1,9 @@
 ## My StackOverflow Profile
 - [Link](https://stackoverflow.com/users/11638718/%e5%ba%b7%e6%a1%93%e7%91%8b?tab=profile)
 
+## My accepted proposal for C++23
+- [P2517](https://github.com/cplusplus/papers/issues/1175): Add a conditional `noexcept` specification to `std::apply`
+
 ## My accepted proposal for C++26
 - [P3029](https://github.com/cplusplus/papers/issues/1710): Better `mdspan`'s CTAD
 
@@ -11,10 +14,6 @@
 - [P3216](https://github.com/cplusplus/papers/issues/1866): `views::slice`
 - [P3220](https://github.com/cplusplus/papers/issues/1868): `views::delimit`
 - [P3230](https://github.com/cplusplus/papers/issues/1876): `views::(take|drop)_exactly`
-
-
-## My accepted proposal for C++23
-- [P2517](https://github.com/cplusplus/papers/issues/1175): Add a conditional `noexcept` specification to `std::apply`
 
 ## GCC regression language bugs reported by me
 - [99478][99478], [99584][99584], [99659][99659], [99700][99700], [99757][99757], [99803][99803], [99806][99806], [99815][99815],  [99831][99831], [99844][99844], [99869][99869], [99874][99874], [99899][99899], [100006][100006], [100109][100109], [102163][102163], [102629][102629], [102709][102709], [102869][102869], [102870][102870], [103236][103236], [103401][103401], [103428][103428], [103497][103497], [103831][103831], [103952][103952], [104291][104291], [105067][105067], [105221][105221], [105541][105541], [105652][105652], [105788][105788]
