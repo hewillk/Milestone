@@ -1,6 +1,9 @@
 ## My StackOverflow Profile
 - [Link](https://stackoverflow.com/users/11638718/%e5%ba%b7%e6%a1%93%e7%91%8b?tab=profile)
 
+## C++ working draft editorial fix by me
+- [Link](https://github.com/cplusplus/draft/graphs/contributors)
+
 ## My accepted proposal for C++23
 - [P2517](https://github.com/cplusplus/papers/issues/1175): Add a conditional `noexcept` specification to `std::apply`
 
@@ -161,9 +164,6 @@
 - [range.concat.view] [4073](https://cplusplus.github.io/LWG/issue4073)
 - [range.join.with.view] [4074](https://cplusplus.github.io/LWG/issue4074)
 - [version.syn] [4076](https://cplusplus.github.io/LWG/issue4076)
-
-## C++ working draft editorial fix by me
-- [Link](https://github.com/cplusplus/draft/graphs/contributors)
 
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
