@@ -164,7 +164,10 @@
 - [range.concat.view] [4073](https://cplusplus.github.io/LWG/issue4073)
 - [range.join.with.view] [4074](https://cplusplus.github.io/LWG/issue4074)
 - [version.syn] [4076](https://cplusplus.github.io/LWG/issue4076)
-
+- [range.concat.iterator] [4079](https://cplusplus.github.io/LWG/issue4079)
+- [range.concat.iterator] [4081](https://cplusplus.github.io/LWG/issue4081)
+- [range.concat.overview] [4082](https://cplusplus.github.io/LWG/issue4082)
+- [range.as.rvalue.overview] [4083](https://cplusplus.github.io/LWG/issue4083)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
