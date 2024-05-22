@@ -162,12 +162,12 @@
 - [range.prim.empty] [4062](https://cplusplus.github.io/LWG/issue4062)
 - [range.utility.conv.to] [4066](https://cplusplus.github.io/LWG/issue4066)
 - [range.concat.view] [4073](https://cplusplus.github.io/LWG/issue4073)
-- [range.join.with.view] [4074](https://cplusplus.github.io/LWG/issue4074)
-- [version.syn] [4076](https://cplusplus.github.io/LWG/issue4076)
-- [range.concat.iterator] [4079](https://cplusplus.github.io/LWG/issue4079)
+- [range.join.with.view] [4074](https://cplusplus.github.io/LWG/issue4074) ✅
+- [version.syn] [4076](https://cplusplus.github.io/LWG/issue4076) ✅
+- [range.concat.iterator] [4079](https://cplusplus.github.io/LWG/issue4079) ✅
 - [range.concat.iterator] [4081](https://cplusplus.github.io/LWG/issue4081)
-- [range.concat.overview] [4082](https://cplusplus.github.io/LWG/issue4082)
-- [range.as.rvalue.overview] [4083](https://cplusplus.github.io/LWG/issue4083)
+- [range.concat.overview] [4082](https://cplusplus.github.io/LWG/issue4082) ✅
+- [range.as.rvalue.overview] [4083](https://cplusplus.github.io/LWG/issue4083) ✅
 - [alg.rand.generate] [4085](https://cplusplus.github.io/LWG/issue4085)
 - [alg.rand.generate] [4086](https://cplusplus.github.io/LWG/issue4086)
 - [range.concat.iterator] [4089](https://cplusplus.github.io/LWG/issue4089)
@@ -176,7 +176,15 @@
 - [alg.fold] [4093](https://cplusplus.github.io/LWG/issue4093)
 - [alg.fold] [4094](https://cplusplus.github.io/LWG/issue4094)
 - [algorithm.syn] [4095](https://cplusplus.github.io/LWG/issue4095)
-
+- [range.iota.overview] [4096](https://cplusplus.github.io/LWG/issue4096) ✅
+- [range.reverse.overview] [4097](https://cplusplus.github.io/LWG/issue4097)
+- [range.adjacent.overview] [4098](https://cplusplus.github.io/LWG/issue4098) ✅
+- [range.as.rvalue.overview] [4099](https://cplusplus.github.io/LWG/issue4099)
+- [alg.unique] [4103](https://cplusplus.github.io/LWG/issue4103)
+- [const.iterators] [4104](https://cplusplus.github.io/LWG/issue4104)
+- [alg.ends.with] [4105](https://cplusplus.github.io/LWG/issue4105) ✅
+- [format.args] [4106](https://cplusplus.github.io/LWG/issue4106) ✅
+                    - 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
 [100109]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100109
