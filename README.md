@@ -184,7 +184,7 @@
 - [const.iterators] [4104](https://cplusplus.github.io/LWG/issue4104)
 - [alg.ends.with] [4105](https://cplusplus.github.io/LWG/issue4105) ✅
 - [format.args] [4106](https://cplusplus.github.io/LWG/issue4106) ✅
-                    - 
+
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
 [100109]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100109
