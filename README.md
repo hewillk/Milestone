@@ -368,7 +368,7 @@
 [114934]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=114934
 [115000]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=115000
 [115145]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=115145
-[115425]::https://gcc.gnu.org/bugzilla/show_bug.cgi?id=115425
+[115425]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=115425
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
