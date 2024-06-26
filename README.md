@@ -185,6 +185,8 @@
 - [alg.ends.with] [4105](https://cplusplus.github.io/LWG/issue4105) ✅
 - [format.args] [4106](https://cplusplus.github.io/LWG/issue4106) ✅
 - [range.lazy.split.view] [4108](https://cplusplus.github.io/LWG/issue4108)
+- [range.utility.helpers] [4112](https://cplusplus.github.io/LWG/issue4112) ✅
+
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
