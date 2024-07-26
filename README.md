@@ -48,7 +48,7 @@
 ## Clang C++ Standard Library (libc++) bugs reported by me
 - `<iterator>` [56504][56504], [71498][71498]
 - `<format>` [60536][60536], [60995][60995]
-- `<algorithm>` [61160][61160], [69074][69074], [69554][69554], [86833][86833]
+- `<algorithm>` [61160][61160], [69074][69074], [69554][69554], [86833][86833], [100569][100569], [100580][100580]
 - `<chrono>` [63912][63912]
 - `<mdspan>` [68671][68671]
 - `<ratio>` [63753][63753]
@@ -56,7 +56,7 @@
 - `<iostream>` [79782][79782]
 
 ## Microsoft's C++ Standard Library (MSVC-STL) bugs reported by me
-- `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900], [4102][4102], [4108][4108], [4109][4109]
+- `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900], [4102][4102], [4108][4108], [4109][4109], [4863][4863]
 - `<ranges>` [1957][1957], [2889][2889], [2894][2894], [3014][3014], [3031][3031], [4153][4153]
 - `<iterator>` [2065][2065], [3025][3025]
 - `<variant>` [2171][2171], [2970][2970]
@@ -186,7 +186,13 @@
 - [format.args] [4106](https://cplusplus.github.io/LWG/issue4106) ✅
 - [range.lazy.split.view] [4108](https://cplusplus.github.io/LWG/issue4108)
 - [range.utility.helpers] [4112](https://cplusplus.github.io/LWG/issue4112) ✅
-
+- [range.elements.iterator] [4114](https://cplusplus.github.io/LWG/issue4114)
+- [move.iter.elem] [4115](https://cplusplus.github.io/LWG/issue4115)
+- [range.enumerate.iterator] [4116](https://cplusplus.github.io/LWG/issue4116) ✅
+- [coro.generator.iterator] [4117](https://cplusplus.github.io/LWG/issue4117) ✅
+- [coro.generator.promise] [4119](https://cplusplus.github.io/LWG/issue4119)
+- [move.iterator] [4120](https://cplusplus.github.io/LWG/issue4120)
+- [range.utility.conv.general]  [4121](https://cplusplus.github.io/LWG/issue4121)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
@@ -399,6 +405,7 @@
 [4108]:https://github.com/microsoft/STL/issues/4108
 [4109]:https://github.com/microsoft/STL/issues/4109
 [4153]:https://github.com/microsoft/STL/issues/4153
+[4863]:https://github.com/microsoft/STL/issues/4863
 
 [56504]:https://github.com/llvm/llvm-project/issues/56504
 [60536]:https://github.com/llvm/llvm-project/issues/60536
@@ -414,3 +421,5 @@
 [72883]:https://github.com/llvm/llvm-project/issues/72883
 [79782]:https://github.com/llvm/llvm-project/issues/79782
 [86833]:https://github.com/llvm/llvm-project/issues/86833
+[100569]:https://github.com/llvm/llvm-project/issues/100569
+[100580]:https://github.com/llvm/llvm-project/issues/100580
