@@ -56,7 +56,7 @@
 - `<iostream>` [79782][79782]
 
 ## Microsoft's C++ Standard Library (MSVC-STL) bugs reported by me
-- `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900], [4102][4102], [4108][4108], [4109][4109], [4863][4863]
+- `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900], [4102][4102], [4108][4108], [4109][4109], [4863][4863], [4877][4877]
 - `<ranges>` [1957][1957], [2889][2889], [2894][2894], [3014][3014], [3031][3031], [4153][4153]
 - `<iterator>` [2065][2065], [3025][3025]
 - `<variant>` [2171][2171], [2970][2970]
@@ -406,6 +406,7 @@
 [4109]:https://github.com/microsoft/STL/issues/4109
 [4153]:https://github.com/microsoft/STL/issues/4153
 [4863]:https://github.com/microsoft/STL/issues/4863
+[4877]:https://github.com/microsoft/STL/issues/4877
 
 [56504]:https://github.com/llvm/llvm-project/issues/56504
 [60536]:https://github.com/llvm/llvm-project/issues/60536
