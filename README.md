@@ -193,7 +193,10 @@
 - [coro.generator.iterator] [4117](https://cplusplus.github.io/LWG/issue4117) ✅
 - [coro.generator.promise] [4119](https://cplusplus.github.io/LWG/issue4119)
 - [move.iterator] [4120](https://cplusplus.github.io/LWG/issue4120)
-- [range.utility.conv.general]  [4121](https://cplusplus.github.io/LWG/issue4121)
+- [range.utility.conv.general] [4121](https://cplusplus.github.io/LWG/issue4121)
+- [move.iterator] [4125](https://cplusplus.github.io/LWG/issue4125)
+- [func.search.bm] [4127](https://cplusplus.github.io/LWG/issue4127)
+- [iterator.range] [4131](https://cplusplus.github.io/LWG/issue4131)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
