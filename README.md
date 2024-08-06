@@ -63,6 +63,7 @@
 - `<memory>` [2962][2962]
 - `<format>` [3271][3271]
 - `<functional>` [4048][4048]
+- `<spanstream>` [4879][4879]
 
 ## C++ Standard Library Issues (LWG) reported by me
 - [range.split.outer.value] [3553](https://cplusplus.github.io/LWG/issue3553) ✅
@@ -408,6 +409,7 @@
 [4153]:https://github.com/microsoft/STL/issues/4153
 [4863]:https://github.com/microsoft/STL/issues/4863
 [4877]:https://github.com/microsoft/STL/issues/4877
+[4879]:https://github.com/microsoft/STL/issues/4879
 
 [56504]:https://github.com/llvm/llvm-project/issues/56504
 [60536]:https://github.com/llvm/llvm-project/issues/60536
