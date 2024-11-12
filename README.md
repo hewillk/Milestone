@@ -54,6 +54,7 @@
 - `<ratio>` [63753][63753]
 - `<ranges>` [67296][67296], [72883][72883]
 - `<iostream>` [79782][79782]
+- `<vector>` [115727][115727], [115737][115737]
 
 ## Microsoft's C++ Standard Library (MSVC-STL) bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900], [4102][4102], [4108][4108], [4109][4109], [4863][4863], [4877][4877]
@@ -64,6 +65,8 @@
 - `<format>` [3271][3271]
 - `<functional>` [4048][4048]
 - `<spanstream>` [4879][4879]
+- `<vector>` [5076][5076]
+
 
 ## C++ Standard Library Issues (LWG) reported by me
 - [range.split.outer.value] [3553](https://cplusplus.github.io/LWG/issue3553) ✅
@@ -415,6 +418,7 @@
 [4863]:https://github.com/microsoft/STL/issues/4863
 [4877]:https://github.com/microsoft/STL/issues/4877
 [4879]:https://github.com/microsoft/STL/issues/4879
+[5076]:https://github.com/microsoft/STL/issues/5076
 
 [56504]:https://github.com/llvm/llvm-project/issues/56504
 [60536]:https://github.com/llvm/llvm-project/issues/60536
@@ -434,3 +438,5 @@
 [100580]:https://github.com/llvm/llvm-project/issues/100580
 [100709]:https://github.com/llvm/llvm-project/issues/100709
 [100726]:https://github.com/llvm/llvm-project/issues/100726
+[115727]:https://github.com/llvm/llvm-project/issues/115727
+[115737]:https://github.com/llvm/llvm-project/issues/115737
