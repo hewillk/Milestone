@@ -195,7 +195,7 @@
 - [move.iter.elem] [4115](https://cplusplus.github.io/LWG/issue4115)
 - [range.enumerate.iterator] [4116](https://cplusplus.github.io/LWG/issue4116) ✅
 - [coro.generator.iterator] [4117](https://cplusplus.github.io/LWG/issue4117) ✅
-- [coro.generator.promise] [4119](https://cplusplus.github.io/LWG/issue4119)
+- [coro.generator.promise] [4119](https://cplusplus.github.io/LWG/issue4119) ✅
 - [move.iterator] [4120](https://cplusplus.github.io/LWG/issue4120)
 - [range.utility.conv.general] [4121](https://cplusplus.github.io/LWG/issue4121)
 - [move.iterator] [4125](https://cplusplus.github.io/LWG/issue4125)
