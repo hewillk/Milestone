@@ -200,7 +200,7 @@
 - [move.iterator] [4125](https://cplusplus.github.io/LWG/issue4125)
 - [func.search.bm] [4127](https://cplusplus.github.io/LWG/issue4127)
 - [iterator.range] [4131](https://cplusplus.github.io/LWG/issue4131)
-- [forward.list.erasure] [4135](https://cplusplus.github.io/LWG/issue4135)
+- [forward.list.erasure] [4135](https://cplusplus.github.io/LWG/issue4135) ✅
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
