@@ -44,6 +44,7 @@
 - `<format>` [107871][107871], [108024][108024], [108046][108046], [112607][112607], [113320][113320]
 - `<numeric>` [108760][108760]
 - `<ratio>` [110593][110593]
+- `<generator>` [118022][118022]
 
 ## Clang C++ Standard Library (libc++) bugs reported by me
 - `<iterator>` [56504][56504], [71498][71498]
@@ -395,6 +396,7 @@
 [112803]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=112803
 [117541]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=117541
 [117998]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=117998
+[118022]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=118022
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
