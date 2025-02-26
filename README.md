@@ -206,6 +206,7 @@
 - [range.subrange.general] [4183](https://cplusplus.github.io/LWG/issue4183)
 - [ranges.syn] [4189](https://cplusplus.github.io/LWG/issue4189) ✅
 - [range.cache.latest.iterator] [4210](https://cplusplus.github.io/LWG/issue4210)
+- [range.take.overview] [4214](https://cplusplus.github.io/LWG/issue4214)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
