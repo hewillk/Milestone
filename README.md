@@ -46,7 +46,7 @@
 - `<ratio>` [110593][110593]
 - `<generator>` [118022][118022]
 - `<flat_set>` [118156][118156]
-- `<unordered_multiset>` [119358][119358]
+- `<unordered_set>` [119358][119358]
 
 ## Clang C++ Standard Library (libc++) bugs reported by me
 - `<iterator>` [56504][56504], [71498][71498]
@@ -208,6 +208,9 @@
 - [ranges.syn] [4189](https://cplusplus.github.io/LWG/issue4189) ✅
 - [range.cache.latest.iterator] [4210](https://cplusplus.github.io/LWG/issue4210)
 - [range.take.overview] [4214](https://cplusplus.github.io/LWG/issue4214)
+- [range.join.view] [4220](https://cplusplus.github.io/LWG/issue4220)
+- [format.range] [4221](https://cplusplus.github.io/LWG/issue4221)
+- [range.to.input] [4226](https://cplusplus.github.io/LWG/issue4226)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
