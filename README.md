@@ -46,6 +46,7 @@
 - `<ratio>` [110593][110593]
 - `<generator>` [118022][118022]
 - `<flat_set>` [118156][118156]
+- `<unordered_multiset>` [119358][119358]
 
 ## Clang C++ Standard Library (libc++) bugs reported by me
 - `<iterator>` [56504][56504], [71498][71498]
@@ -412,6 +413,7 @@
 [119135]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119135
 [111138]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=111138
 [119252]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119252
+[119358]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119358
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
