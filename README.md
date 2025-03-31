@@ -58,6 +58,8 @@
 - `<ranges>` [67296][67296], [72883][72883], [119133][119133]
 - `<iostream>` [79782][79782]
 - `<vector>` [115727][115727], [115737][115737]
+- `<flat_map>` [132621][132621]
+- `<flat_set>` [132622][132622]
 
 ## Microsoft's C++ Standard Library (MSVC-STL) bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900], [4102][4102], [4108][4108], [4109][4109], [4863][4863], [4877][4877]
@@ -481,3 +483,5 @@
 [115727]:https://github.com/llvm/llvm-project/issues/115727
 [115737]:https://github.com/llvm/llvm-project/issues/115737
 [119133]:https://github.com/llvm/llvm-project/issues/119133
+[132622]:https://github.com/llvm/llvm-project/issues/132622
+[132621]:https://github.com/llvm/llvm-project/issues/132621
