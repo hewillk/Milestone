@@ -211,6 +211,11 @@
 - [range.join.view] [4220](https://cplusplus.github.io/LWG/issue4220)
 - [format.range] [4221](https://cplusplus.github.io/LWG/issue4221)
 - [range.to.input] [4226](https://cplusplus.github.io/LWG/issue4226)
+- [hive.erasure] [4233](https://cplusplus.github.io/LWG/issue4233)
+- [iterator.range] [4234](https://cplusplus.github.io/LWG/issue4234)
+- [range.cache.latest.view] [4235](https://cplusplus.github.io/LWG/issue4235)
+- [range.chunk.outer.value] [4236](https://cplusplus.github.io/LWG/issue4236)
+- [const.iterators.iterator] [4237](https://cplusplus.github.io/LWG/issue4237)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
