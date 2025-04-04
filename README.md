@@ -46,7 +46,7 @@
 - `<numeric>` [108760][108760]
 - `<ratio>` [110593][110593]
 - `<generator>` [118022][118022]
-- `<flat_set>` [118156][118156], [119415][119415], [119427][119427]
+- `<flat_set>` [118156][118156], [119415][119415], [119427][119427], [119620][119620]
 - `<unordered_set>` [119358][119358]
 
 ## Clang C++ Standard Library (libc++) bugs reported by me
@@ -428,6 +428,7 @@
 [119415]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119415
 [119427]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119427
 [119545]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119545
+[119620]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119620
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
