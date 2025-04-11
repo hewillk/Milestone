@@ -36,7 +36,7 @@
 - `<memory>` [101571][101571], [101587][101587]
 - `<utility>` [101722][101722], [112473][112473]
 - `<variant>` [106589][106589], [111172][111172], [115145][115145]
-- `<tuple>` [101960][101960], [102270][102270], [119545][119545]
+- `<tuple>` [101960][101960], [102270][102270], [119545][119545], [119721][119721] 
 - `<vector>` [100153][100153], [115098][115098], [117541][117541]
 - `<filesystem>` [102354][102354]
 - `<functional>` [102825][102825]
@@ -61,6 +61,7 @@
 - `<vector>` [115727][115727], [115737][115737]
 - `<flat_map>` [132621][132621]
 - `<flat_set>` [132622][132622]
+- `<tuple>` [135306][135306]
 
 ## Microsoft's C++ Standard Library (MSVC-STL) bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900], [4102][4102], [4108][4108], [4109][4109], [4863][4863], [4877][4877]
@@ -429,6 +430,7 @@
 [119427]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119427
 [119545]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119545
 [119620]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119620
+[119721]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119721
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
@@ -488,3 +490,5 @@
 [119133]:https://github.com/llvm/llvm-project/issues/119133
 [132622]:https://github.com/llvm/llvm-project/issues/132622
 [132621]:https://github.com/llvm/llvm-project/issues/132621
+[135306]:https://github.com/llvm/llvm-project/issues/135306
+
