@@ -61,7 +61,6 @@
 - `<vector>` [115727][115727], [115737][115737]
 - `<flat_map>` [132621][132621]
 - `<flat_set>` [132622][132622]
-- `<tuple>` [135306][135306]
 
 ## Microsoft's C++ Standard Library (MSVC-STL) bugs reported by me
 - `<algorithm>` [1932][1932], [2268][2268], [2884][2884], [2885][2885], [2886][2886], [2888][2888], [2892][2892], [2900][2900], [4102][4102], [4108][4108], [4109][4109], [4863][4863], [4877][4877]
@@ -430,7 +429,6 @@
 [119427]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119427
 [119545]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119545
 [119620]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119620
-[119721]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119721
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
