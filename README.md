@@ -429,6 +429,7 @@
 [119427]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119427
 [119545]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119545
 [119620]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119620
+[119721]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119721
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
@@ -488,5 +489,4 @@
 [119133]:https://github.com/llvm/llvm-project/issues/119133
 [132622]:https://github.com/llvm/llvm-project/issues/132622
 [132621]:https://github.com/llvm/llvm-project/issues/132621
-[135306]:https://github.com/llvm/llvm-project/issues/135306
 
