@@ -74,6 +74,7 @@
 - `<vector>` [5076][5076]
 - `<stack>` [5168][5168]
 - `<format>` [5178][5178], [5182][5182]
+- `<string>` [5402][5402]
 
 
 ## C++ Standard Library Issues (LWG) reported by me
@@ -219,6 +220,10 @@
 - [range.cache.latest.view] [4235](https://cplusplus.github.io/LWG/issue4235)  ✅
 - [range.chunk.outer.value] [4236](https://cplusplus.github.io/LWG/issue4236)  ✅
 - [const.iterators.iterator] [4237](https://cplusplus.github.io/LWG/issue4237)
+- [format.formattable] [4240](https://cplusplus.github.io/LWG/issue4240)
+- [range.iter.op.distance] [4242](https://cplusplus.github.io/LWG/issue4242) ✅
+-  [span.objectrep] [4243](https://cplusplus.github.io/LWG/issue4243)
+
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
@@ -465,6 +470,7 @@
 [5182]:https://github.com/microsoft/STL/issues/5182
 [5183]:https://github.com/microsoft/STL/issues/5183
 [5387]:https://github.com/microsoft/STL/issues/5387
+[5402]:https://github.com/microsoft/STL/issues/5402
 
 [56504]:https://github.com/llvm/llvm-project/issues/56504
 [60536]:https://github.com/llvm/llvm-project/issues/60536
