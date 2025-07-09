@@ -42,7 +42,7 @@
 - `<functional>` [102825][102825]
 - `<expected>` [105146][105146], [105153][105153], [105154][105154], [109182][109182]
 - `<stacktrace>` [105031][105031]
-- `<format>` [107871][107871], [108024][108024], [108046][108046], [112607][112607], [113320][113320]
+- `<format>` [107871][107871], [108024][108024], [108046][108046], [112607][112607], [113320][113320], [119861][119861]
 - `<numeric>` [108760][108760]
 - `<ratio>` [110593][110593]
 - `<generator>` [118022][118022]
@@ -437,6 +437,7 @@
 [119752]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119752
 [119962]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119962
 [120789]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=120789
+[119861]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119861
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
