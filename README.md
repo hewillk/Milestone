@@ -13,13 +13,13 @@
 ## My accepted proposal for C++29
 - [P3059](https://github.com/cplusplus/papers/issues/1726): Making user-defined constructors of view iterators/sentinels private
 - [P3052](https://github.com/cplusplus/papers/issues/1721): `view_interface::at()`
+- [P3230](https://github.com/cplusplus/papers/issues/1876): `views::unchecked_(take|drop)`
+- [P3544](https://github.com/cplusplus/papers/issues/2247): `ranges::to<view>`
+
+## My proposal for C++29
 - [P3211](https://github.com/cplusplus/papers/issues/1862): `views::transform_join`
 - [P3216](https://github.com/cplusplus/papers/issues/1866): `views::slice`
 - [P3220](https://github.com/cplusplus/papers/issues/1868): `views::delimit`
-
-## My proposal for C++29
-- [P3230](https://github.com/cplusplus/papers/issues/1876): `views::unchecked_(take|drop)`
-- [P3544](https://github.com/cplusplus/papers/issues/2247): `ranges::to<view>`
 
 ## GCC *confirmed* regression language bugs reported by me
 - [99478][99478], [99584][99584], [99659][99659], [99700][99700], [99757][99757], [99803][99803], [99806][99806], [99815][99815],  [99831][99831], [99844][99844], [99869][99869], [99874][99874], [99899][99899], [100006][100006], [100109][100109], [102163][102163], [102629][102629], [102709][102709], [102869][102869], [102870][102870], [103236][103236], [103401][103401], [103428][103428], [103497][103497], [103831][103831], [103952][103952], [104291][104291], [105067][105067], [105221][105221], [105541][105541], [105652][105652], [105788][105788], [115425][115425], [121125][121125]
