@@ -222,8 +222,10 @@
 - [const.iterators.iterator] [4237](https://cplusplus.github.io/LWG/issue4237)
 - [format.formattable] [4240](https://cplusplus.github.io/LWG/issue4240)
 - [range.iter.op.distance] [4242](https://cplusplus.github.io/LWG/issue4242) ✅
--  [span.objectrep] [4243](https://cplusplus.github.io/LWG/issue4243)
-
+- [span.objectrep] [4243](https://cplusplus.github.io/LWG/issue4243)
+- [range.lazy.split.outer] [4249](https://cplusplus.github.io/LWG/issue4249)
+- [const.iterators.iterator] [4253](https://cplusplus.github.io/LWG/issue4253) ✅
+- [range.stride.iterator] [4254](https://cplusplus.github.io/LWG/issue4254)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
