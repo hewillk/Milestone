@@ -10,12 +10,14 @@
 ## My accepted proposal for C++26
 - [P3029](https://github.com/cplusplus/papers/issues/1710): Better `mdspan`'s CTAD
 
-## My proposal for C++26
+## My accepted proposal for C++29
 - [P3059](https://github.com/cplusplus/papers/issues/1726): Making user-defined constructors of view iterators/sentinels private
 - [P3052](https://github.com/cplusplus/papers/issues/1721): `view_interface::at()`
 - [P3211](https://github.com/cplusplus/papers/issues/1862): `views::transform_join`
 - [P3216](https://github.com/cplusplus/papers/issues/1866): `views::slice`
 - [P3220](https://github.com/cplusplus/papers/issues/1868): `views::delimit`
+
+## My proposal for C++29
 - [P3230](https://github.com/cplusplus/papers/issues/1876): `views::unchecked_(take|drop)`
 - [P3544](https://github.com/cplusplus/papers/issues/2247): `ranges::to<view>`
 
