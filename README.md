@@ -77,7 +77,7 @@
 - `<string>` [5402][5402]
 
 
-## C++ Standard Library Issues (LWG) reported by me
+## C++ Standard Library *confirmed* Issues (LWG) reported by me
 - [range.split.outer.value] [3553](https://cplusplus.github.io/LWG/issue3553) ✅
 - [string.view.cons] [3573](https://cplusplus.github.io/LWG/issue3573) ✅
 - [common.iterator] [3574](https://cplusplus.github.io/LWG/issue3574) ✅
