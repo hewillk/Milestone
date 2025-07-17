@@ -1,7 +1,7 @@
 ## My StackOverflow Profile
 - [Link](https://stackoverflow.com/users/11638718/%e5%ba%b7%e6%a1%93%e7%91%8b?tab=profile)
 
-## C++ working draft editorial fix by me
+## C++ working draft editorial fix by me (8th)
 - [Link](https://github.com/cplusplus/draft/graphs/contributors)
 
 ## My accepted proposal for C++23
