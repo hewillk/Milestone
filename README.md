@@ -17,7 +17,7 @@
 - [P3544](https://github.com/cplusplus/papers/issues/2247): `ranges::to<view>`
 
 ## My proposal for C++29
-- [P3211](https://isocpp.org/files/papers/p3211R1.html): `views::flat_map`
+- [P3211](https://isocpp.org/files/papers/P3211R1.html): `views::flat_map`
 - [P3216](https://isocpp.org/files/papers/P3216R1.html): `views::slice`
 - [P3220](https://isocpp.org/files/papers/P3220R1.html): `views::take_before`
 - [P3741](https://isocpp.org/files/papers/P3741R0.html): `views::set_operations`
