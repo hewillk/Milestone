@@ -53,6 +53,7 @@
 - `<generator>` [118022][118022]
 - `<flat_set>` [118156][118156], [119415][119415], [119427][119427], [119620][119620]
 - `<unordered_set>` [119358][119358]
+- `<inplace_vector>` [121196][121196]
 
 ## Clang confirmed C++ Standard Library (libc++) bugs reported by me
 - `<iterator>` [56504][56504], [71498][71498]
@@ -447,6 +448,7 @@
 [119861]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=119861
 [114477]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=114477
 [121125]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=121125
+[121196]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=121196
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
