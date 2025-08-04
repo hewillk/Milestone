@@ -17,12 +17,12 @@
 - [P3544](https://github.com/cplusplus/papers/issues/2247): `ranges::to<view>`
 
 ## My proposal for C++29
-- [P3211](https://isocpp.org/files/papers/P3211R1.html): `views::flat_map`
-- [P3216](https://isocpp.org/files/papers/P3216R1.html): `views::slice`
-- [P3220](https://isocpp.org/files/papers/P3220R1.html): `views::take_before`
-- [P3741](https://isocpp.org/files/papers/P3741R0.html): `views::set_operations`
-- [P3757](https://isocpp.org/files/papers/P3757R0.html): Remove value-type invocability requirement from indirect unary callable concepts
-- [P3763](https://isocpp.org/files/papers/P3763R0.html): Remove redundant reserve_hint members from view classes
+- [P3211](https://github.com/cplusplus/papers/issues/1862): `views::flat_map`
+- [P3216](https://github.com/cplusplus/papers/issues/1865): `views::slice`
+- [P3220](https://github.com/cplusplus/papers/issues/1868): `views::take_before`
+- [P3741](https://github.com/cplusplus/papers/issues/2370): `views::set_operations`
+- [P3757](https://github.com/cplusplus/papers/issues/2380): Remove value-type invocability requirement from indirect unary callable concepts
+- [P3763](https://github.com/cplusplus/papers/issues/2382): Remove redundant reserve_hint members from view classes
 
 ## GCC *confirmed* regression language bugs reported by me
 - [99478][99478], [99584][99584], [99659][99659], [99700][99700], [99757][99757], [99803][99803], [99806][99806], [99815][99815],  [99831][99831], [99844][99844], [99869][99869], [99874][99874], [99899][99899], [100006][100006], [100109][100109], [102163][102163], [102629][102629], [102709][102709], [102869][102869], [102870][102870], [103236][103236], [103401][103401], [103428][103428], [103497][103497], [103831][103831], [103952][103952], [104291][104291], [105067][105067], [105221][105221], [105541][105541], [105652][105652], [105788][105788], [115425][115425], [121125][121125]
