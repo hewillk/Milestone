@@ -233,6 +233,8 @@
 - [const.iterators.iterator] [4253](https://cplusplus.github.io/LWG/issue4253) ✅
 - [range.stride.iterator] [4254](https://cplusplus.github.io/LWG/issue4254)
 - [ranges.syn] [4307](https://cplusplus.github.io/LWG/issue4307)
+- [unique.ptr.single.observers] [4324](https://cplusplus.github.io/LWG/issue4324)
+- [indirect.relops] [4325](https://cplusplus.github.io/LWG/issue4325)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
