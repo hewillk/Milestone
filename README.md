@@ -39,7 +39,7 @@
 - `<type_traits>` [100894][100894]
 - `<span>` [101411][101411]
 - `<memory>` [101571][101571], [101587][101587]
-- `<utility>` [101722][101722], [112473][112473]
+- `<utility>` [101722][101722], [112473][112473], [121745][121745]
 - `<variant>` [106589][106589], [111172][111172], [115145][115145]
 - `<tuple>` [101960][101960], [102270][102270], [119545][119545]
 - `<vector>` [100153][100153], [115098][115098], [117541][117541]
@@ -452,6 +452,7 @@
 [114477]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=114477
 [121125]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=121125
 [121196]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=121196
+[121745]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=121745 
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
