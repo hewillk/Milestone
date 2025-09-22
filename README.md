@@ -235,6 +235,12 @@
 - [ranges.syn] [4307](https://cplusplus.github.io/LWG/issue4307)
 - [unique.ptr.single.observers] [4324](https://cplusplus.github.io/LWG/issue4324)
 - [indirect.relops] [4325](https://cplusplus.github.io/LWG/issue4325)
+- [func.search.bm] [4365](https://cplusplus.github.io/LWG/issue4365)
+- [expected.object.eq] [4366](https://cplusplus.github.io/LWG/issue4366)
+- [optional.ref.monadic] [4367](https://cplusplus.github.io/LWG/issue4367)
+- [optional.comp.with.t] [4370](https://cplusplus.github.io/LWG/issue4370)
+- [queue.defn] [4371](https://cplusplus.github.io/LWG/issue4371)
+- [func.wrap.ref.class] [4373](https://cplusplus.github.io/LWG/issue4373)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
