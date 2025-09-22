@@ -44,7 +44,7 @@
 - `<tuple>` [101960][101960], [102270][102270], [119545][119545]
 - `<vector>` [100153][100153], [115098][115098], [117541][117541]
 - `<filesystem>` [102354][102354]
-- `<functional>` [102825][102825], [121782][121782]
+- `<functional>` [102825][102825], [121782][121782], [122022][122022]
 - `<expected>` [105146][105146], [105153][105153], [105154][105154], [109182][109182]
 - `<stacktrace>` [105031][105031]
 - `<format>` [107871][107871], [108024][108024], [108046][108046], [112607][112607], [113320][113320], [119861][119861]
@@ -458,6 +458,7 @@
 [121808]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=121808
 [121859]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=121859
 [121956]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=121956
+[122022]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=122022 
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
