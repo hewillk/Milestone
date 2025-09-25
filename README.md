@@ -50,6 +50,7 @@
 - `<format>` [107871][107871], [108024][108024], [108046][108046], [112607][112607], [113320][113320], [119861][119861]
 - `<numeric>` [108760][108760]
 - `<ratio>` [110593][110593]
+- `<random>` [122062][122062] 
 - `<generator>` [118022][118022]
 - `<flat_set>` [118156][118156], [119415][119415], [119427][119427], [119620][119620]
 - `<unordered_set>` [119358][119358]
@@ -468,6 +469,7 @@
 [122022]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=122022 
 [121940]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=121940
 [122043]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=122043
+[122062]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=122062
 
 [1932]:https://github.com/microsoft/STL/issues/1932
 [1957]:https://github.com/microsoft/STL/issues/1957
