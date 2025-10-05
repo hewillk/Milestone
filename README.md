@@ -244,6 +244,21 @@
 - [optional.comp.with.t] [4370](https://cplusplus.github.io/LWG/issue4370)
 - [queue.defn] [4371](https://cplusplus.github.io/LWG/issue4371)
 - [func.wrap.ref.class] [4373](https://cplusplus.github.io/LWG/issue4373)
+- [const.wrap.class] [4383](https://cplusplus.github.io/LWG/issue4383)
+- [flat.set.defn] [4384](https://cplusplus.github.io/LWG/issue4384)
+- [iterator.range] [4385](https://cplusplus.github.io/LWG/issue4385)
+- [simd.alg] [4386](https://cplusplus.github.io/LWG/issue4386)
+- [iterator.range]  [4387](https://cplusplus.github.io/LWG/issue4387)
+- [simd.ctor] [4390](https://cplusplus.github.io/LWG/issue4390)
+- [simd.ctor] [4391](https://cplusplus.github.io/LWG/issue4391)
+- [simd.loadstore] [4392](https://cplusplus.github.io/LWG/issue4392)
+- [simd.permute.memory] [4393](https://cplusplus.github.io/LWG/issue4393)
+- [simd.loadstore]  [4394](https://cplusplus.github.io/LWG/issue4394)
+- [sequence.reqmts] [4396](https://cplusplus.github.io/LWG/issue4396)
+- [span.cons] [4397](https://cplusplus.github.io/LWG/issue4397)
+- [range.join.view] [4401](https://cplusplus.github.io/LWG/issue4401)
+- [simd.ctor] [4403](https://cplusplus.github.io/LWG/issue4403)
+- [span.deduct] [4404](https://cplusplus.github.io/LWG/issue4404)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
