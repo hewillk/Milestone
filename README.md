@@ -259,6 +259,11 @@
 - [range.join.view] [4401](https://cplusplus.github.io/LWG/issue4401)
 - [simd.ctor] [4403](https://cplusplus.github.io/LWG/issue4403)
 - [span.deduct] [4404](https://cplusplus.github.io/LWG/issue4404)
+- [mdspan.mdspan.cons] [4405](https://cplusplus.github.io/LWG/issue4405)
+- [optional.observe] [4406](https://cplusplus.github.io/LWG/issue4406)
+- [simd.ctor] [4407](https://cplusplus.github.io/LWG/issue4407)
+- [simd.subscr] [4408](https://cplusplus.github.io/LWG/issue4408)
+- [string.view.cons] [4410](https://cplusplus.github.io/LWG/issue4410)
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
