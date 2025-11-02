@@ -56,7 +56,7 @@
 - `<unordered_set>` [119358][119358]
 - `<inplace_vector>` [121196][121196]
 
-## Clang confirmed C++ Standard Library (libc++) bugs reported by me
+## Clang *confirmed* C++ Standard Library (libc++) bugs reported by me
 - `<iterator>` [56504][56504], [71498][71498]
 - `<format>` [60536][60536], [60995][60995]
 - `<algorithm>` [61160][61160], [69074][69074], [69554][69554], [86833][86833], [100569][100569], [100580][100580], [100709][100709], [100726][100726]
