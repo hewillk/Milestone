@@ -23,6 +23,7 @@
 - [P3741](https://github.com/cplusplus/papers/issues/2370): `views::set_operations`
 - [P3757](https://github.com/cplusplus/papers/issues/2380): Remove value-type invocability requirement from indirect unary callable concepts
 - [P3763](https://github.com/cplusplus/papers/issues/2382): Remove redundant reserve_hint members from view classes
+- [P3928](https://github.com/cplusplus/papers/issues/2585): `static_sized_range`
 
 ## GCC *confirmed* regression language bugs reported by me
 - [99478][99478], [99584][99584], [99659][99659], [99700][99700], [99757][99757], [99803][99803], [99806][99806], [99815][99815],  [99831][99831], [99844][99844], [99869][99869], [99874][99874], [99899][99899], [100006][100006], [100109][100109], [102163][102163], [102629][102629], [102709][102709], [102869][102869], [102870][102870], [103236][103236], [103401][103401], [103428][103428], [103497][103497], [103831][103831], [103952][103952], [104291][104291], [105067][105067], [105221][105221], [105541][105541], [105652][105652], [105788][105788], [115425][115425], [121125][121125], [121859][121859], [123249][123249]
