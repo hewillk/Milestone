@@ -239,28 +239,25 @@
 - [const.iterators.iterator] [4253](https://cplusplus.github.io/LWG/issue4253) ✅
 - [range.stride.iterator] [4254](https://cplusplus.github.io/LWG/issue4254)
 - [ranges.syn] [4307](https://cplusplus.github.io/LWG/issue4307)
-- [unique.ptr.single.observers] [4324](https://cplusplus.github.io/LWG/issue4324)
+- [unique.ptr.single.observers] [4324](https://cplusplus.github.io/LWG/issue4324) ✅
 - [indirect.relops] [4325](https://cplusplus.github.io/LWG/issue4325)
 - [func.search.bm] [4365](https://cplusplus.github.io/LWG/issue4365)
-- [expected.object.eq] [4366](https://cplusplus.github.io/LWG/issue4366)
+- [expected.object.eq] [4366](https://cplusplus.github.io/LWG/issue4366) ✅
 - [optional.ref.monadic] [4367](https://cplusplus.github.io/LWG/issue4367)
-- [optional.comp.with.t] [4370](https://cplusplus.github.io/LWG/issue4370)
-- [queue.defn] [4371](https://cplusplus.github.io/LWG/issue4371)
+- [optional.comp.with.t] [4370](https://cplusplus.github.io/LWG/issue4370) ✅
 - [func.wrap.ref.class] [4373](https://cplusplus.github.io/LWG/issue4373)
-- [const.wrap.class] [4383](https://cplusplus.github.io/LWG/issue4383)
-- [flat.set.defn] [4384](https://cplusplus.github.io/LWG/issue4384)
+- [const.wrap.class] [4383](https://cplusplus.github.io/LWG/issue4383) ✅
+- [flat.set.defn] [4384](https://cplusplus.github.io/LWG/issue4384) ✅
 - [iterator.range] [4385](https://cplusplus.github.io/LWG/issue4385)
 - [simd.alg] [4386](https://cplusplus.github.io/LWG/issue4386)
-- [iterator.range]  [4387](https://cplusplus.github.io/LWG/issue4387)
 - [simd.ctor] [4390](https://cplusplus.github.io/LWG/issue4390)
-- [simd.ctor] [4391](https://cplusplus.github.io/LWG/issue4391)
 - [simd.loadstore] [4392](https://cplusplus.github.io/LWG/issue4392)
 - [simd.permute.memory] [4393](https://cplusplus.github.io/LWG/issue4393)
 - [simd.loadstore]  [4394](https://cplusplus.github.io/LWG/issue4394)
-- [sequence.reqmts] [4396](https://cplusplus.github.io/LWG/issue4396)
+- [sequence.reqmts] [4396](https://cplusplus.github.io/LWG/issue4396) ✅
 - [span.cons] [4397](https://cplusplus.github.io/LWG/issue4397)
 - [range.join.view] [4401](https://cplusplus.github.io/LWG/issue4401)
-- [simd.ctor] [4403](https://cplusplus.github.io/LWG/issue4403)
+- [simd.ctor] [4403](https://cplusplus.github.io/LWG/issue4403)  ✅
 - [mdspan.mdspan.cons] [4405](https://cplusplus.github.io/LWG/issue4405)
 - [optional.observe] [4406](https://cplusplus.github.io/LWG/issue4406)
 - [simd.ctor] [4407](https://cplusplus.github.io/LWG/issue4407)
