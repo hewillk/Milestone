@@ -267,6 +267,11 @@
 - [simd.ctor] [4407](https://cplusplus.github.io/LWG/issue4407)
 - [simd.subscr] [4408](https://cplusplus.github.io/LWG/issue4408)
 - [string.view.cons] [4410](https://cplusplus.github.io/LWG/issue4410)
+- [flat.set.modifiers] [4499](https://cplusplus.github.io/LWG/issue4499) ✅
+- [meta.define.static] [4537](https://cplusplus.github.io/LWG/issue4537)
+- [meta.reflection.layout] [4538](https://cplusplus.github.io/LWG/issue4538)
+
+
 
 [97512]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=97512
 [100006]:https://gcc.gnu.org/bugzilla/show_bug.cgi?id=100006
