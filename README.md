@@ -261,7 +261,6 @@
 - [span.cons] [4397](https://cplusplus.github.io/LWG/issue4397)
 - [range.join.view] [4401](https://cplusplus.github.io/LWG/issue4401)
 - [simd.ctor] [4403](https://cplusplus.github.io/LWG/issue4403)
-- [span.deduct] [4404](https://cplusplus.github.io/LWG/issue4404)
 - [mdspan.mdspan.cons] [4405](https://cplusplus.github.io/LWG/issue4405)
 - [optional.observe] [4406](https://cplusplus.github.io/LWG/issue4406)
 - [simd.ctor] [4407](https://cplusplus.github.io/LWG/issue4407)
