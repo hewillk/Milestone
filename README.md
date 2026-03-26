@@ -264,9 +264,10 @@
 - [simd.subscr] [4408](https://cplusplus.github.io/LWG/issue4408)
 - [string.view.cons] [4410](https://cplusplus.github.io/LWG/issue4410)
 - [flat.set.modifiers] [4499](https://cplusplus.github.io/LWG/issue4499) ✅
-- [meta.define.static] [4537](https://cplusplus.github.io/LWG/issue4537)
+- [meta.define.static] [4537](https://cplusplus.github.io/LWG/issue4537) ✅
 - [meta.reflection.layout] [4538](https://cplusplus.github.io/LWG/issue4538)
 - [iterator.concept.winc] [4546](https://cplusplus.github.io/LWG/issue4546)
+- [range.drop.view] [4558](https://cplusplus.github.io/LWG/issue4558)
 
 
 
