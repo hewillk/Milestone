@@ -11,7 +11,7 @@
 - [P3029](https://github.com/cplusplus/papers/issues/1710): Better `mdspan`'s CTAD
 
 ## My accepted proposal for C++29
-- [P3059](https://github.com/cplusplus/papers/issues/1726): Making user-defined constructors of view iterators/sentinels private
+- [P3059](https://github.com/cplusplus/papers/issues/1726): Making user-defined constructors of view iterators/sentinels private (DR20)
 - [P3052](https://github.com/cplusplus/papers/issues/1721): `view_interface::at()`
 - [P3230](https://github.com/cplusplus/papers/issues/1876): `views::unchecked_(take|drop)`
 - [P3544](https://github.com/cplusplus/papers/issues/2247): `ranges::to<view>`
@@ -25,6 +25,8 @@
 - [P3763](https://github.com/cplusplus/papers/issues/2382): Remove redundant reserve_hint members from view classes
 - [P3928](https://github.com/cplusplus/papers/issues/2585): `static_sized_range`
 - [P3880](https://github.com/cplusplus/papers/issues/2550): Make `subspan` aware of compile-time constants
+- [P4173](https://github.com/cplusplus/papers/issues/2736): A range facility for `mdspan`
+- [P4179](https://github.com/cplusplus/papers/issues/2740): `view_interface::[c]rbegin()`
 
 ## GCC *confirmed* regression language bugs reported by me
 - [99478][99478], [99584][99584], [99659][99659], [99700][99700], [99757][99757], [99803][99803], [99806][99806], [99815][99815],  [99831][99831], [99844][99844], [99869][99869], [99874][99874], [99899][99899], [100006][100006], [100109][100109], [102163][102163], [102629][102629], [102709][102709], [102869][102869], [102870][102870], [103236][103236], [103401][103401], [103428][103428], [103497][103497], [103831][103831], [103952][103952], [104291][104291], [105067][105067], [105221][105221], [105541][105541], [105652][105652], [105788][105788], [115425][115425], [121125][121125], [121859][121859], [123249][123249]
