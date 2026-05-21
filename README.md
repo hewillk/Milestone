@@ -227,7 +227,6 @@
 - [range.cache.latest.iterator] [4210](https://cplusplus.github.io/LWG/issue4210)
 - [range.take.overview] [4214](https://cplusplus.github.io/LWG/issue4214)
 - [range.join.view] [4220](https://cplusplus.github.io/LWG/issue4220)
-- [format.range] [4221](https://cplusplus.github.io/LWG/issue4221)
 - [range.to.input] [4226](https://cplusplus.github.io/LWG/issue4226)
 - [hive.erasure] [4233](https://cplusplus.github.io/LWG/issue4233)  ✅
 - [iterator.range] [4234](https://cplusplus.github.io/LWG/issue4234)  ✅
@@ -270,6 +269,14 @@
 - [meta.reflection.layout] [4538](https://cplusplus.github.io/LWG/issue4538)
 - [iterator.concept.winc] [4546](https://cplusplus.github.io/LWG/issue4546)
 - [range.drop.view] [4558](https://cplusplus.github.io/LWG/issue4558)
+- [range.zip.view] [4559](https://cplusplus.github.io/LWG/issue4559)
+- [range.reverse.view] [4561](https://cplusplus.github.io/LWG/issue4561)
+- [range.subrange.general] [4565](https://cplusplus.github.io/LWG/issue4565)
+- [linalg.scaled.scaledaccessor] [4566](https://cplusplus.github.io/LWG/issue4566)
+- [mdspan.mdspan.overview] [4569](https://cplusplus.github.io/LWG/issue4569)
+- [view.interface] [4573](https://cplusplus.github.io/LWG/issue4573)
+
+
 
 
 
