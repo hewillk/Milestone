@@ -275,6 +275,7 @@
 - [linalg.scaled.scaledaccessor] [4566](https://cplusplus.github.io/LWG/issue4566)
 - [mdspan.mdspan.overview] [4569](https://cplusplus.github.io/LWG/issue4569)
 - [view.interface] [4573](https://cplusplus.github.io/LWG/issue4573)
+- [view.interface] [4577](https://cplusplus.github.io/LWG/issue4577)
 
 
 
