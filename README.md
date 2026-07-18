@@ -21,7 +21,6 @@
 - [P3216](https://github.com/cplusplus/papers/issues/1865): `views::slice`
 - [P3741](https://github.com/cplusplus/papers/issues/2370): `views::set_operations`
 - [P3757](https://github.com/cplusplus/papers/issues/2380): Remove value-type invocability requirement from indirect unary callable concepts
-- [P3763](https://github.com/cplusplus/papers/issues/2382): Remove redundant reserve_hint members from view classes
 - [P3928](https://github.com/cplusplus/papers/issues/2585): `static_sized_range`
 - [P3880](https://github.com/cplusplus/papers/issues/2550): Make `subspan` aware of compile-time constants
 - [P4173](https://github.com/cplusplus/papers/issues/2736): A range facility for `mdspan`
