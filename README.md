@@ -13,13 +13,12 @@
 ## My accepted proposal for C++29
 - [P3059](https://github.com/cplusplus/papers/issues/1726): Making user-defined constructors of view iterators/sentinels private (DR20)
 - [P3052](https://github.com/cplusplus/papers/issues/1721): `view_interface::at()`
-- [P3230](https://github.com/cplusplus/papers/issues/1876): `views::unchecked_(take|drop)`
-- [P3544](https://github.com/cplusplus/papers/issues/2247): `ranges::to<view>`
+- [P3220](https://github.com/cplusplus/papers/issues/1868): `views::take_before`
+
 
 ## My proposal for C++29
 - [P3211](https://github.com/cplusplus/papers/issues/1862): `views::flat_map`
 - [P3216](https://github.com/cplusplus/papers/issues/1865): `views::slice`
-- [P3220](https://github.com/cplusplus/papers/issues/1868): `views::take_before`
 - [P3741](https://github.com/cplusplus/papers/issues/2370): `views::set_operations`
 - [P3757](https://github.com/cplusplus/papers/issues/2380): Remove value-type invocability requirement from indirect unary callable concepts
 - [P3763](https://github.com/cplusplus/papers/issues/2382): Remove redundant reserve_hint members from view classes
@@ -27,6 +26,12 @@
 - [P3880](https://github.com/cplusplus/papers/issues/2550): Make `subspan` aware of compile-time constants
 - [P4173](https://github.com/cplusplus/papers/issues/2736): A range facility for `mdspan`
 - [P4179](https://github.com/cplusplus/papers/issues/2740): `view_interface::[c]rbegin()`
+- [P3230](https://github.com/cplusplus/papers/issues/1876): `views::unchecked_(take|drop)`
+- [P3544](https://github.com/cplusplus/papers/issues/2247): `ranges::to<view>`
+- [P4291](https://github.com/cplusplus/papers/issues/2831): `views::unique`
+- [P4294](https://github.com/cplusplus/papers/issues/2833): `views::[take|drop]_last`
+- [P4281](https://github.com/cplusplus/papers/issues/2827): Type Aliases in Requires-Expressions
+
 
 
 ## GCC *confirmed* language bugs reported by me
